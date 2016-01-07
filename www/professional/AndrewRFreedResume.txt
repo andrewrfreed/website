@@ -1,0 +1,61 @@
+Andrew R. Freed
+
+116 Hidden Rock Court
+Cary, NC  27513
+Phone: (919) 460-6917
+http://www.freedville.com
+
+
+Work Experience
+
+IBM, Research Triangle Park, NC                                  June 2010 – Present
+Development team lead
+	Managed the migration of 500+ projects and 7500+ users from GForge to IBM tools.
+	Educated 2000+ developers on Jazz Source Control.
+	Developed internal application with over 10,000 registered users.
+	Ran an agile development team on monthly iterations.
+	Mentored new developers and helped their career growth.
+
+
+IBM, Research Triangle Park, NC                                June 2003 – June 2010
+Software Engineer
+	Designed and implemented J2SE and J2EE applications.
+	Automated build, install, and test processes.
+	Learned and improved new codebases rapidly.
+	Contributed to development, test, documentation, and education efforts.
+
+
+TVHound LLC, Cary, NC                                         May 2005 – August 2005
+Software Architect
+	Designed and implemented a J2EE application and J2SE backend.  
+	Managed a MySQL database and the batch jobs loading new data into it.
+
+  
+Agilent Technologies, Loveland, CO                        January 2001 – August 2001
+Software Engineer
+	Designed and implemented a new interface for a cross-functional team.  
+
+
+Education
+
+Master of Science in Computer Science                                   August 2003
+Honors Bachelor of Science in Computer Science
+Pennsylvania State University, University Park, PA
+	GPA 3.86/4.0, Dean’s List all semesters
+
+
+Computer Skills
+	Languages:                Java (J2EE, J2SE), JavaScript, Python, C, C++, JSP, PHP, SQL
+	Technologies:            Spring, JPA, JUnit, HTML, CSS, Dojo, Velocity, EMF, XML, OSLC
+	Software:             Rational Team Concert, Rational Asset Manager, Lotus Connections 
+                         IBM Tivoli Monitoring, IBM Tivoli Enterprise Console, VMWare, Eclipse
+                   Websphere Application Server, DB2, InstallShield, Solution Assembly Toolkit
+
+Certifications	Sun “Certified Enterprise Architect”, Exams 310-051, 310-300A, and 310-061
+		Sun “Java Certified Programmer”, Exams 310-055, 310-252A, and 310-027
+		Microsoft “Networking Essentials”, Exam 70-058
+
+Activities	Marathon and half-marathon running
+		Volunteer work with Habitat for Humanity and Boys and Girls Club
+		Reading about business, economics, and technology
+		Toastmasters club
