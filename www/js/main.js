@@ -40,4 +40,15 @@ app.controller('PageCtrl', function (/* $scope, $location, $http */) {
   $('.tooltip-social').tooltip({
     selector: "a[data-toggle=tooltip]"
   })
+
+  //Thanks to this post for fixing the "menu stays open on mobile" bug
+  //http://stackoverflow.com/questions/21203111/bootstrap-3-collapsed-menu-doesnt-close-on-click
+  $(document).ready(function () {
+    $(".navbar-nav li a").click(function(event) {
+        console.log("Called hide menu: navbar-nav");
+        $(".navbar-collapse").collapse('hide');
+    });
+  });
+
 });
+
