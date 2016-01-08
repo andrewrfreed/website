@@ -52,3 +52,11 @@ app.controller('PageCtrl', function (/* $scope, $location, $http */) {
 
 });
 
+app.controller('PatentCtrl', function($scope, $http) {
+  console.log("Patent Controller reporting for duty.");
+  $http.get('/data/patents.json')
+       .then(function(res){
+          $scope.patents = res.data;                
+        });
+});
+
