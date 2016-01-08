@@ -1,17 +1,9 @@
 <div class="title">Patents</div>
-<div class="text">
+<div class="text" ng-controller="PatentCtrl">
 <ul class="contentList">
-<li>US20150356456 A1: <a href="http://www.freshpatents.com/-dt20151210ptan20150356456.php">Real-Time or Frequent Ingestion by Running Pipeline in Order of Effectiveness</a>, Joel C. Dubbels, Andrew R. Freed, John E. Petri, Michael W. Schroeder</li>
-<li>US20150356203 A1: <a href="http://www.freepatentsonline.com/y2015/0356203.html">Determining Temporal Categories for a Domain of Content for Natural Language Processing</a>, Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung</li>
-<li>US20150356181 A1: <a href="http://www.freshpatents.com/-dt20151210ptan20150356181.php">Effectively Ingesting Data Used for Answering Questions in a Question and Answer (QA) System</a>, Elizabeth T. Dettman, Joel C. Dubbels, Andrew R. Freed, John E. Petri, Michael W. Schroeder</li>
-<li>US20150356170 A1: <a href="http://www.google.com/patents/US20150356170">Time-Based Optimization of Answer Generation in a Question and Answer System</a>, Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung</li>
-<li>US20150317561 A1: <a href="http://patents.com/us-20150317561.html">Predicting and Enhancing Document Ingestion Time</a>, Corville O. Allen and Andrew R. Freed</li>
-<li>US20150310112 A1: <a href="http://patents.com/us-20150310112.html">Managing Questioning in a Question and Answer System</a>, Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung</li>
-<li>US20150310013 A1: <a href="http://patents.com/us-20150310013.html">Managing Questioning in a Question and Answer System</a>, Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung</li>
-<li>US20150309990 A1: <a href="http://patents.com/us-20150309990.html">Producing Insight Information from Tables Using Natural Language Processing</a>, Corville O. Allen and Andrew R. Freed</li>
-<li>US20150309988 A1: <a href="http://patents.com/us-20150309988.html">Evaluating Crowd Sourced Information Using Crowd Sourced Metadata</a>, Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung</li>
-<li>US20150193683 A1: <a href="http://patents.com/us-20150193683.html">Assisting an Expert to Answer Preexisting Questions in a Time Efficient Manner</a>, Andrew R. Freed, Dale J. Heeks, Joshua D. Lowry, Dana L. Price, Dorian B. Miller</li>
-<li>US20150100588 A1: <a href="http://www.google.com/patents/US20150100588">Optimized Data Visualization According to Natural Language Query</a>, Corville O. Allen and Andrew R. Freed</li>
+<li ng-repeat="patent in patents">
+{{patent.id}}: <a href="{{patent.link}}">{{patent.title}}</a>, {{patent.authors}} ({{patent.year}})
+</li>
 </ul>
 </div>
 <!-- find more at http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=S&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&Query=IN/Freed-Andrew$ -->
