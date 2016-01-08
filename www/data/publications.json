@@ -1,0 +1,86 @@
+[
+{
+   "title":"Structured approaches to create a test plan that addresses risk-based factors",
+   "link":"http://www.ibm.com/developerworks/library/d-test-plan-addresses-risk-factors/index.html",
+   "authors":"Andrejko, Pam, Tzoref-Brill, Rachel, Freed, Andrew R., Murch, Cindy, Nordland, Jan, Rivero, Bert",
+   "year":"2015",
+   "citation":"IBM developerWorks"
+},
+{
+   "title":"Adding a Java-based Worklight adapter to your mobile application",
+   "link":"https://www.ibm.com/developerworks/mydeveloperworks/blogs/worklight/entry/adding_a_java_based_worklight_adapter_to_your_mobile_application7?lang=en",
+   "authors":"Freed, Andrew R.",
+   "year":"2012",
+   "citation":"IBM developerWorks"
+},
+{
+   "title":"How IBM migrated a large GForge installation to Rational environments",
+   "link":"https://www.ibm.com/developerworks/rational/library/migrate-gforge-installation-rational-environments/",
+   "authors":"Freed, Andrew R., Pogue, Steven W.",
+   "year":"2012",
+   "citation":"IBM developerWorks"
+},
+{
+   "title":"Comparing concepts between Subversion and Rational Team Concert",
+   "link":"https://jazz.net/library/article/639",
+   "authors":"Freed, Andrew R.",
+   "year":"2011",
+   "citation":"jazz.net"
+},
+{
+   "title":"Open Virtualization Format Toolkit",
+   "link":"http://www.alphaworks.ibm.com/tech/ovfsdk",
+   "authors":"Gering, Mike, Schmidt, Steven, & Freed, Andrew R.",
+   "year":"2009",
+   "citation":"IBM alphaWorks"
+},
+{
+   "title":"Step-by-step guide on how to integrate and manage your old and new Retail devices in IBM Remote Management Agent and IBM Tivoli Monitoring 6.1",
+   "link":"http://www.ibm.com/developerworks/tivoli/library/t-rmaitm/index.html",
+   "authors":"Freed, Andrew R., Wong, Albert, Wang, Tian, & Patnaik, Yasodhar",
+   "year":"2007",
+   "citation":"IBM developerWorks"
+},
+{
+   "title":"Step by step how-to on integrating your application with IBM Tivoli Monitoring 6.1",
+   "link":"http://www.ibm.com/developerworks/tivoli/library/t-inttivmon/index.html",
+   "authors":"Freed, Andrew R., Nguyen, Anhdao, Bijlani, Vinod, & Wong, Albert",
+   "year":"2007",
+   "citation":"IBM developerWorks"
+},
+{
+   "title":"Specifying ACT-R models of user interaction with a GOMS language",
+   "link":"http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W6C-4DTKYTF-1&_coverDate=03%2F01%2F2005&_alid=224447917&_rdoc=1&_fmt=&_orig=search&_qd=1&_cdi=6595&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=b05847877bd09b35d2e23e594a5fbd29",
+   "authors":"Amant, Robert St., Freed, Andrew R., & Ritter, Frank E.",
+   "year":"2004",
+   "citation":"Cognitive Systems Research. Volume 6, Issue 1, March 2005. Pages 71-88"
+},
+{
+   "title":"User information needs: The case of university department web sites",
+   "link":"http://acs.ist.psu.edu/papers/ritterFH05.pdf",
+   "authors":"Ritter, F. E., Freed, A., & Haskett, O.",
+   "year":"2005",
+   "citation":"ACM interactions. 12(5). 19-27"
+},
+{
+   "title":"The effects of interface design on telephone dialing performance",
+   "link":"http://acs.ist.psu.edu/reports/freed03.pdf",
+   "authors":"Freed, Andrew R.",
+   "year":"2003",
+   "citation":"(Masters Thesis) Department of Computer Science and Engineering, The Pennsylvania State University."
+},
+{
+   "title":"Discovering user information needs: The case of university department websites",
+   "link":"http://acs.ist.psu.edu/acs-lab/reports/ritterFH02.pdf",
+   "authors":"Ritter, Frank E., Freed, Andrew R., & Haskett, Onida L.",
+   "year":"2002",
+   "citation":"(Tech. Report No. 2002-3). Applied Cognitive Science Lab, School of Information Sciences and Technology, Penn State"
+},
+{
+   "title":"Web-based resources for teaching discrete mathematics to students of information sciences and technology",
+   "link":"http://lttf.ieee.org/learn_tech/issues/july2002/index.html#3",
+   "authors":"Mudgett, D. R., Freed, A. R., & Ritter, F. E.",
+   "year":"2002",
+   "citation":"IEEE Learning Technology, 4(3). 9-10"
+}
+]
