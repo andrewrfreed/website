@@ -7,7 +7,7 @@
  * Main AngularJS Web Application
  */
 var app = angular.module('freedvilleWebApp', [
-  'ngRoute'
+  'ngRoute', 'ui.bootstrap'
 ]);
 
 /**
@@ -74,5 +74,13 @@ app.controller('PublicationCtrl', function($scope, $http) {
        .then(function(res){
           $scope.publications = res.data;                
         });
+});
+
+app.controller('AccordionWritingCtrl', function ($scope) {
+  $scope.oneAtATime = false;
+  $scope.status = {
+    isFirstOpen: false,
+    isFirstDisabled: false
+  };
 });
 
