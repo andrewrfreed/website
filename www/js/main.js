@@ -7,7 +7,7 @@
  * Main AngularJS Web Application
  */
 var app = angular.module('freedvilleWebApp', [
-  'ngRoute'
+  'ngRoute', 'ui.bootstrap'
 ]);
 
 /**
@@ -74,5 +74,52 @@ app.controller('PublicationCtrl', function($scope, $http) {
        .then(function(res){
           $scope.publications = res.data;                
         });
+});
+
+app.controller('AccordionWritingCtrl', function ($scope) {
+    console.log("Accordion Writing Controller reporting for duty.");
+    $scope.oneAtATime = false;
+
+    $scope.groups = [{
+        groupTitle: "Patents",
+        templateUrl: "partials/patents.html"
+    }, {
+        groupTitle: "Published IP",
+        templateUrl: "partials/publishedip.html"
+    }, {
+        groupTitle: "Publications",
+        templateUrl: "partials/publications.html"
+    }];
+
+    $scope.status = {
+        isOpen: new Array($scope.groups.length)
+    };
+
+    //simple version: http://www.abeautifulsite.net/detecting-mobile-devices-with-javascript/
+    var isMobile = {
+        Android: function() {
+            return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function() {
+            return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function() {
+            return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        Opera: function() {
+            return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function() {
+            return navigator.userAgent.match(/IEMobile/i);
+        },
+        any: function() {
+            return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+        }
+    };
+
+    //For desktop, auto-open all of them ... for mobile, auto-close
+    for (var i = 0; i < $scope.status.isOpen.length; i++) {
+        $scope.status.isOpen[i] = !isMobile.any();
+    }
 });
 

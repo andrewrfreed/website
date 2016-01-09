@@ -1,4 +1,37 @@
 <div class="container">
+<div ng-controller="AccordionWritingCtrl">
+    <uib-accordion class="accordion" close-others="oneAtATime">
+        <uib-accordion-group  ng-repeat="group in groups" is-open="status.isOpen[$index]" >
+            <uib-accordion-heading><h3>
+                {{group.groupTitle}} <i class="fa chevron-icon" ng-class="{'fa-chevron-down': status.isOpen[$index], 'fa-chevron-right': !status.isOpen[$index]}"></i>
+            </h3></uib-accordion-heading>
+            <div ng-include="group.templateUrl"></div>
+        </uib-accordion-group>
+    </uib-accordion>
+</div>
+</div>
+
+<!-- testing data binding. works to do includes, does NOT do it as an accordion -->
+<!--
+<div ng-controller="AccordionWritingCtrl">
+    <div class="accordion" ng-class="{'custom-style': item.title }" close-others="oneAtATime">
+        <div class="accordion-group" ng-repeat="group in groups" is-open="status.isOpen[$index]" >
+            <div class="accordion-heading">
+                {{group.groupTitle}}
+            </div>
+            <div ng-include="group.templateUrl" />
+        </div>
+    </div>
+</div>
+-->
+
+<!--testing raw include -->
+<!--
+<div ng-include="'partials/patents.html'"></div>
+-->
+
+<!--
+<div class="container">
  <h2>Patents</h2>
  <div class="list-group" ng-controller="PatentCtrl">
   <p ng-repeat="patent in patents">
@@ -6,8 +39,10 @@
   </p>
  </div>
 </div>
+-->
 <!-- find more at http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=S&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&Query=IN/Freed-Andrew$ -->
 
+<!--
 <div class="container">
  <h2>Published IP</h2>
  <div class="list-group" ng-controller="PublishedIpCtrl">
@@ -25,3 +60,4 @@
   </p>
  </div>
 </div>
+-->
