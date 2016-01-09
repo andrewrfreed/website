@@ -1,0 +1,5 @@
+ <div class="list-group" ng-controller="PublicationCtrl">
+  <p ng-repeat="pub in publications">
+  {{pub.authors}} ({{pub.year}}). <a href="{{pub.link}}">{{pub.title}}</a>. {{pub.citation}}
+  </p>
+ </div>
