@@ -1,5 +1,26 @@
 [
  { 
+  "id":"20160042275 A1",
+  "title":"Debugging Code Using a Question and Answer System Based on Documentation and Code Change Records",
+  "link":"http://www.patentsencyclopedia.com/app/20160042275",
+  "authors":"Andrew R. Freed, Elizabeth T. Dettman, Joel C. Dubbels, Michael W. Schroeder",
+  "year": "2016"
+ },
+ { 
+  "id":"20160034457 A1",
+  "title":"Changed Answer Notification in a Question and Answer System",
+  "link":"http://patents.justia.com/patent/20160034457",
+  "authors":"Andrew R. Freed, Lisa M. W. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "year": "2016"
+ },
+ { 
+  "id":"20160026634 A1",
+  "title":"Corpus Quality Analysis",
+  "link":"http://patents.justia.com/patent/20160026634",
+  "authors":"Corville O. Allen, Andrew R. Freed, Beata J. Strack, Richard A. Salmon",
+  "year": "2016"
+ },
+ { 
   "id":"US20150356456 A1",
   "title":"Real-Time or Frequent Ingestion by Running Pipeline in Order of Effectiveness",
   "link":"http://www.freshpatents.com/-dt20151210ptan20150356456.php",
