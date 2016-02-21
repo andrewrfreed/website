@@ -1,5 +1,26 @@
 [
  { 
+  "id":"US20160042275 A1",
+  "title":"Debugging Code Using a Question and Answer System Based on Documentation and Code Change Records",
+  "link":"http://www.patentsencyclopedia.com/app/20160042275",
+  "authors":"Andrew R. Freed, Elizabeth T. Dettman, Joel C. Dubbels, Michael W. Schroeder",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160034457 A1",
+  "title":"Changed Answer Notification in a Question and Answer System",
+  "link":"http://patents.justia.com/patent/20160034457",
+  "authors":"Andrew R. Freed, Lisa M. W. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160026634 A1",
+  "title":"Corpus Quality Analysis",
+  "link":"http://patents.justia.com/patent/20160026634",
+  "authors":"Corville O. Allen, Andrew R. Freed, Beata J. Strack, Richard A. Salmon",
+  "year": "2016"
+ },
+ { 
   "id":"US20150356456 A1",
   "title":"Real-Time or Frequent Ingestion by Running Pipeline in Order of Effectiveness",
   "link":"http://www.freshpatents.com/-dt20151210ptan20150356456.php",
@@ -37,28 +58,28 @@
  {
    "id":"US20150310112 A1",
    "title":"Managing Questioning in a Question and Answer System",
-   "link":"http://patents.com/us-20150310112.html",
+   "link":"https://www.google.com/patents/US20150310112",
    "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
    "year":"2015"
  },
  {
    "id":"US20150310013 A1",
    "title":"Managing Questioning in a Question and Answer System",
-   "link":"http://patents.com/us-20150310013.html",
+   "link":"https://www.google.com/patents/US20150310112",
    "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
    "year":"2015"
  },
  {
    "id":"US20150309990 A1",
    "title":"Producing Insight Information from Tables Using Natural Language Processing",
-   "link":"http://patents.com/us-20150309990.html",
+   "link":"https://www.google.com/patents/US20150309990",
    "authors":"Corville O. Allen and Andrew R. Freed",
    "year":"2015"
  },
  {
    "id":"US20150309988 A1",
    "title":"Evaluating Crowd Sourced Information Using Crowd Sourced Metadata",
-   "link":"http://patents.com/us-20150309988.html",
+   "link":"https://www.google.com/patents/US20150309988",
    "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
    "year":"2015"
  },
