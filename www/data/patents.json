@@ -1,5 +1,33 @@
 [
  { 
+  "id":"US20160078182 A1",
+  "title":"Using Toxicity Level in Treatment Recommendations by Question Answering Systems",
+  "link":"http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=2&f=G&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&OS=IN/Freed-Andrew$&RS=IN/Freed-Andrew$",
+  "authors":"Corville O. Allen, Roberto Delima, Thomas J. Eggebraaten, Mark G. Megerian, Marie L. Setnes, Andrew R. Freed",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160078036 A1",
+  "title":"Building a Domain Knowledge and Term Identity Using Crowd Sourcing",
+  "link":"http://www.freshpatents.com/-dt20160317ptan20160078036.php",
+  "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160078341 A1",
+  "title":"Building a Domain Knowledge and Term Identity Using Crowd Sourcing",
+  "link":"http://www.freshpatents.com/-dt20160317ptan20160078341.php",
+  "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160055155 A1",
+  "title":"Answering Superlative Questions with a Question and Answer System",
+  "link":"http://www.freepatentsonline.com/y2016/0055155.html",
+  "authors":"Andrew R. Freed, Corville O. Allen, Roberto Delima, Albert A. Chung",
+  "year": "2016"
+ },
+ { 
   "id":"US20160042275 A1",
   "title":"Debugging Code Using a Question and Answer System Based on Documentation and Code Change Records",
   "link":"http://www.patentsencyclopedia.com/app/20160042275",
