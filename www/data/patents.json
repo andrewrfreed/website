@@ -1,36 +1,78 @@
 [
  { 
+  "id":"US20160210314 A1",
+  "title":"IDENTIFYING RELATED INFORMATION IN DISSIMILAR DATA",
+  "link":"http://patents.com/us-20160210314.html",
+  "authors":"Andrew R. Freed, Ahmed M. Nassar, Omar Eman, Craig M. Trim",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160206960 A1",
+  "title":"CREATING DYNAMIC GAME ACTIVITIES FOR GAMES",
+  "link":"http://patents.com/us-20160206960.html",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160196299 A1",
+  "title":"Determining Answer Stability in a Question Answering System",
+  "link":"http://patents.com/us-20160196299.html",
+  "authors":"Corville O. Allen, Andrew R. Freed, Lisa M. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160196298 A1",
+  "title":"Apply Corrections to an Ingested Corpus",
+  "link":"http://patents.com/us-20160196298.html",
+  "authors":"Andrew R. Freed, Lisa M. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160196250 A1",
+  "title":"Reprocess Problematic Sections of Input Documents",
+  "link":"http://patents.com/us-20160196250.html",
+  "authors":"Corville O. Allen, Andrew R. Freed, Kyungae Lim",
+  "year": "2016"
+ },
+ { 
+  "id":"US20160196249 A1",
+  "title":"Reprocess Problematic Sections of Input Documents",
+  "link":"http://patents.com/us-20160196249.html",
+  "authors":"Corville O. Allen, Andrew R. Freed, Kyungae Lim",
+  "year": "2016"
+ },
+ { 
   "id":"US20160171900 A1",
   "title":"Determining the Correct Answer in a Forum Thread",
-  "link":"http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=G&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&OS=IN/Freed-Andrew$&RS=IN/Freed-Andrew$",
+  "link":"https://patents.google.com/patent/US20160171900A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Stephen J. Roorda",
   "year": "2016"
  },
  { 
   "id":"US20160171373 A1",
   "title":"Training a Question/Answer System Using Answer Keys Based on Forum Content",
-  "link":"http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=3&f=G&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&OS=IN/Freed-Andrew$&RS=IN/Freed-Andrew$",
+  "link":"https://patents.google.com/patent/US20160171373A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Stephen J. Roorda",
   "year": "2016"
  },
  { 
   "id":"US20160171371 A1",
   "title":"Adaptive Testing for Answers in a Question and Answer System",
-  "link":"http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=4&f=G&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&OS=IN/Freed-Andrew$&RS=IN/Freed-Andrew$",
+  "link":"https://patents.google.com/patent/US20160171371A1",
   "authors":"Pamela D. Andrejko, Andrew R. Freed, Cynthia M. Murch, Richad A. Salmon, Charles S. Skinner",
   "year": "2016"
  },
  { 
   "id":"US20160170972 A1",
   "title":"GENERATING NATURAL LANGUAGE TEXT SENTENCES AS TEST CASES FOR NLP ANNOTATORS WITH COMBINATORIAL TEST DESIGN",
-  "link":"http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=5&f=G&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&OS=IN/Freed-Andrew$&RS=IN/Freed-Andrew$",
+  "link":"https://patents.google.com/patent/US20160170972A1",
   "authors":"Pamela D. Andrejko, Andrew R. Freed, Cynthia M. Murch, Robert L. Nielsen, Jan M. Nordland, Humberto R. Rivero",
   "year": "2016"
  },
  { 
   "id":"US20160170949 A1",
   "title":"Annotating Posts in a Forum Thread with Improved Data",
-  "link":"http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=7&f=G&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&OS=IN/Freed-Andrew$&RS=IN/Freed-Andrew$",
+  "link":"https://patents.google.com/patent/US20160170949A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Stephen J. Roorda",
   "year": "2016"
  },
