@@ -1,5 +1,12 @@
 [
 {
+   "title":"Guide to Git for Rational Team Concert users",
+   "link":"http://www.ibm.com/developerworks/library/d-guide-git-rational-team-concert-trs/",
+   "authors":"Freed, Andrew R., Brown, Jason",
+   "year":"2016",
+   "citation":"IBM developerWorks"
+},
+{
    "title":"Structured approaches to create a test plan that addresses risk-based factors",
    "link":"http://www.ibm.com/developerworks/library/d-test-plan-addresses-risk-factors/index.html",
    "authors":"Andrejko, Pam, Tzoref-Brill, Rachel, Freed, Andrew R., Murch, Cindy, Nordland, Jan, Rivero, Bert",
