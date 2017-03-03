@@ -1,5 +1,19 @@
 [
  { 
+  "id":"US20170024311 A1",
+  "title":"Proactive Cognitive Analysis for Inferring Test Case Dependencies",
+  "link":"https://www.google.com/patents/US20170024311A1",
+  "authors":"Andrew R. Freed, Pamela D. Andrejko, Richard A. Salmon, Charles S. Skinner",
+  "year": "2017"
+ },
+ { 
+  "id":"US20170024310 A1",
+  "title":"Proactive Cognitive Analysis for Inferring Test Case Dependencies",
+  "link":"https://www.google.com/patents/US20170024310A1",
+  "authors":"Andrew R. Freed, Pamela D. Andrejko, Richard A. Salmon, Charles S. Skinner",
+  "year": "2017"
+ },
+ { 
   "id":"US20160359894 A1",
   "title":"Ingesting documents using multiple ingestion pipelines",
   "link":"https://patents.google.com/patent/US20160359894A1",
