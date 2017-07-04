@@ -4,7 +4,10 @@
   "title":"Managing provisioning for cloud resource allocations",
   "link":"https://www.google.com/patents/US20170163764A1",
   "authors":"Corville O. Allen, Andrew R. Freed",
-  "year": "2017"
+  "year": "2017",
+  "status":"Grant",
+  "issue_id":"US9513971 B2",
+  "issue_link":"https://www.google.com/patents/US9513971B2"
  },
  { 
   "id":"US20170163552 A1",
@@ -67,7 +70,10 @@
   "title":"Linguistic based determination of text creation date",
   "link":"https://www.google.com/patents/US20170060846A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Roberto Delima, Robert L. Nielsen",
-  "year": "2017"
+  "year": "2017",
+  "status":"Grant",
+  "issue_id":"US9639524 B2",
+  "issue_link":"https://www.google.com/patents/US9639524B2"
  },
  { 
   "id":"US20170060845 A1",
@@ -102,7 +108,10 @@
   "title":"Cognitive System with Ingestion of Natural Language Documents with Embedded Code",
   "link":"https://www.google.com/patents/US20170039188A1",
   "authors":"Andrew R. Freed, Corville O. Allen, Albert A. Chung",
-  "year": "2017"
+  "year": "2017",
+  "status":"Grant",
+  "issue_id":"US9606990 B2",
+  "issue_link":"https://www.google.com/patents/US9606990B2"
  },
  { 
   "id":"US20170024311 A1",
@@ -221,7 +230,10 @@
   "title":"Training a Question/Answer System Using Answer Keys Based on Forum Content",
   "link":"https://patents.google.com/patent/US20160171373A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Stephen J. Roorda",
-  "year": "2016"
+  "year": "2016",
+  "status":"Grant",
+  "issue_id":"US9626622 B2",
+  "issue_link":"https://www.google.com/patents/US9626622B2"
  },
  { 
   "id":"US20160171371 A1",
@@ -291,7 +303,10 @@
   "title":"Inter Thread Anaphora Resolution",
   "link":"https://patents.google.com/patent/US20160170957A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Donna K. Byron",
-  "year": "2016"
+  "year": "2016",
+  "status":"Grant",
+  "issue_id":"US9626352 B2",
+  "issue_link":"https://www.google.com/patents/US9626352B2"
  },
  { 
   "id":"US20160154787 A1",
@@ -417,7 +432,10 @@
   "title":"Cognitive Digital Security Assistant",
   "link":"https://patents.google.com/patent/US20160098576A1",
   "authors":"Corville O. Allen and Andrew R. Freed",
-  "year": "2016"
+  "year": "2016",
+  "status":"Grant",
+  "issue_id":"US9660687 B2",
+  "issue_link":"https://www.google.com/patents/US9660687B2"
  },
  { 
   "id":"US20160078182 A1",
@@ -459,7 +477,10 @@
   "title":"Changed Answer Notification in a Question and Answer System",
   "link":"https://patents.google.com/patent/US20160034457A1",
   "authors":"Andrew R. Freed, Lisa M. W. Bradley, Christina R. Carlson, Roderick C. Henderson",
-  "year": "2016"
+  "year": "2016",
+  "status":"Grant",
+  "issue_id":"US9619513 B2",
+  "issue_link":"https://www.google.com/patents/US9619513B2"
  },
  { 
   "id":"US20160026634 A1",
@@ -483,66 +504,91 @@
   "year":"2015"
  },
  {
-   "id":"US20150356181 A1",
-   "title":"Effectively Ingesting Data Used for Answering Questions in a Question and Answer (QA) System",
-   "link":"https://patents.google.com/patent/US20150356181A1",
-   "authors":"Elizabeth T. Dettman, Joel C. Dubbels, Andrew R. Freed, John E. Petri, Michael W. Schroeder",
-   "year":"2015"
+  "id":"US20150356181 A1",
+  "title":"Effectively Ingesting Data Used for Answering Questions in a Question and Answer (QA) System",
+  "link":"https://patents.google.com/patent/US20150356181A1",
+  "authors":"Elizabeth T. Dettman, Joel C. Dubbels, Andrew R. Freed, John E. Petri, Michael W. Schroeder",
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9542496 B2",
+  "issue_link":"https://www.google.com/patents/US9542496B2"
  },
  {
-   "id":"US20150356170 A1",
-   "title":"Time-Based Optimization of Answer Generation in a Question and Answer System",
-   "link":"http://www.google.com/patents/US20150356170",
-   "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
-   "year":"2015"
+  "id":"US20150356170 A1",
+  "title":"Time-Based Optimization of Answer Generation in a Question and Answer System",
+  "link":"http://www.google.com/patents/US20150356170",
+  "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
+  "year":"2015"
  },
  {
-   "id":"US20150317561 A1",
-   "title":"Predicting and Enhancing Document Ingestion Time",
-   "link":"https://patents.google.com/patent/US20150317561A1",
-   "authors":"Corville O. Allen and Andrew R. Freed",
-   "year":"2015"
+  "id":"US20150317561 A1",
+  "title":"Predicting and Enhancing Document Ingestion Time",
+  "link":"https://patents.google.com/patent/US20150317561A1",
+  "authors":"Corville O. Allen and Andrew R. Freed",
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9563846 B2",
+  "issue_link":"https://www.google.com/patents/US9563846B2"
  },
  {
-   "id":"US20150310112 A1",
-   "title":"Managing Questioning in a Question and Answer System",
-   "link":"https://www.google.com/patents/US20150310112",
-   "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
-   "year":"2015"
+  "id":"US9621677 B1",
+  "title":"Monitoring accesses to computer source code",
+  "link":"https://www.google.com/patents/US9621677B1",
+  "authors":"Andrew R. Freed, Lisa M. W. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9621677 B1",
+  "issue_link":"https://www.google.com/patents/US9621677B1"
  },
  {
-   "id":"US20150310013 A1",
-   "title":"Managing Questioning in a Question and Answer System",
-   "link":"https://www.google.com/patents/US20150310112",
-   "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
-   "year":"2015"
+  "id":"US20150310112 A1",
+  "title":"Managing Questioning in a Question and Answer System",
+  "link":"https://www.google.com/patents/US20150310112A1",
+  "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9633137 B2",
+  "issue_link":"https://www.google.com/patents/US9633137B2"
  },
  {
-   "id":"US9286290 B2",
-   "title":"Producing Insight Information from Tables Using Natural Language Processing",
-   "link":"https://www.google.com/patents/US9286290",
-   "authors":"Corville O. Allen and Andrew R. Freed",
-   "year":"2015"
+  "id":"US20150310013 A1",
+  "title":"Managing Questioning in a Question and Answer System",
+  "link":"https://www.google.com/patents/US20150310013A1",
+  "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9633138 B2",
+  "issue_link":"https://www.google.com/patents/US9633138B2"
  },
  {
-   "id":"US20150309988 A1",
-   "title":"Evaluating Crowd Sourced Information Using Crowd Sourced Metadata",
-   "link":"https://www.google.com/patents/US20150309988",
-   "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
-   "year":"2015"
+  "id":"US9286290 B2",
+  "title":"Producing Insight Information from Tables Using Natural Language Processing",
+  "link":"https://www.google.com/patents/US9286290",
+  "authors":"Corville O. Allen and Andrew R. Freed",
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9286290 B2",
+  "issue_link":"https://www.google.com/patents/US9286290B2"
  },
  {
-   "id":"US20150193683 A1",
-   "title":"Assisting an Expert to Answer Preexisting Questions in a Time Efficient Manner",
-   "link":"https://patents.google.com/patent/US20150193683A1",
-   "authors":"Andrew R. Freed, Dale J. Heeks, Joshua D. Lowry, Dana L. Price, Dorian B. Miller",
-   "year":"2015"
+  "id":"US20150309988 A1",
+  "title":"Evaluating Crowd Sourced Information Using Crowd Sourced Metadata",
+  "link":"https://www.google.com/patents/US20150309988",
+  "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
+  "year":"2015"
  },
  {
-   "id":"US20150100588 A1",
-   "title":"Optimized Data Visualization According to Natural Language Query",
-   "link":"http://www.google.com/patents/US20150100588",
-   "authors":"Corville O. Allen and Andrew R. Freed",
-   "year":"2013"
+  "id":"US20150193683 A1",
+  "title":"Assisting an Expert to Answer Preexisting Questions in a Time Efficient Manner",
+  "link":"https://patents.google.com/patent/US20150193683A1",
+  "authors":"Andrew R. Freed, Dale J. Heeks, Joshua D. Lowry, Dana L. Price, Dorian B. Miller",
+  "year":"2015"
+ },
+ {
+  "id":"US20150100588 A1",
+  "title":"Optimized Data Visualization According to Natural Language Query",
+  "link":"http://www.google.com/patents/US20150100588",
+  "authors":"Corville O. Allen and Andrew R. Freed",
+  "year":"2013"
  }
 ]

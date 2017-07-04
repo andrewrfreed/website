@@ -1,7 +1,17 @@
  <div class="list-group" ng-controller="PatentCtrl">
-  <p ng-repeat="patent in patents">
-  {{patent.id}}: <a href="{{patent.link}}" target="_blank">{{patent.title}}</a>, {{patent.authors}} ({{patent.year}})
-  </p>
+  <div ng-repeat="patent in patents">
+    <div ng-if="!patent.status">
+      <p>
+      {{patent.id}}: <a href="{{patent.link}}" target="_blank">{{patent.title}}</a>, {{patent.authors}} ({{patent.year}})
+      </p>
+    </div>
+    <div ng-if="patent.status">
+      <p>
+      {{patent.issue_id}}: <a href="{{patent.issue_link}}" target="_blank">{{patent.title}}</a>, {{patent.authors}} ({{patent.year}})
+      </p>
+    </div>
+  </div>
  </div>
 
 <!-- find more at http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=S&l=50&d=PG01&p=1&S1=Freed-Andrew$.IN.&Query=IN/Freed-Andrew$ -->
+<!-- test layout changes by forcing a load of http://192.168.1.118:8080/partials/patents.html and clearing browser cache -->
