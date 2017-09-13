@@ -76,6 +76,14 @@ app.controller('PublicationCtrl', function($scope, $http) {
         });
 });
 
+app.controller('BlogPostsCtrl', function($scope, $http) {
+  console.log("Blog Posts Controller reporting for duty.");
+  $http.get('/data/blogposts.json')
+       .then(function(res){
+          $scope.blogposts = res.data;                
+        });
+});
+
 app.controller('AccordionWritingCtrl', function ($scope) {
     console.log("Accordion Writing Controller reporting for duty.");
     $scope.oneAtATime = false;
@@ -84,11 +92,14 @@ app.controller('AccordionWritingCtrl', function ($scope) {
         groupTitle: "Patents",
         templateUrl: "partials/patents.html"
     }, {
-        groupTitle: "Published IP",
-        templateUrl: "partials/publishedip.html"
-    }, {
         groupTitle: "Publications",
         templateUrl: "partials/publications.html"
+    }, {
+        groupTitle: "Blog Posts",
+        templateUrl: "partials/blogposts.html"
+    }, {
+        groupTitle: "Published IP",
+        templateUrl: "partials/publishedip.html"
     }];
 
     $scope.status = {

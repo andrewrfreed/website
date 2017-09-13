@@ -1,0 +1,110 @@
+[
+{
+   "title":"Book Review: Effective Debugging",
+   "link":"http://freedville.com/blog/2017/09/06/book-review-effective-debugging/",
+   "year":"2017",
+   "date":"09/06/2017"
+},
+{
+   "title":"Book Review: The Bad Data Handbook",
+   "link":"http://freedville.com/blog/2017/08/23/book-review-the-bad-data-handbook/",
+   "year":"2017",
+   "date":"08/23/2017"
+},
+{
+   "title":"Everything I learned about dealing with people, I learned from Dale Carnegie",
+   "link":"http://freedville.com/blog/2017/08/06/everything-i-learned-about-dealing-with-people-i-learned-from-dale-carnegie/",
+   "year":"2017",
+   "date":"08/06/2017"
+},
+{
+   "title":"Balancing precision and recall in your cognitive system",
+   "link":"http://freedville.com/blog/2017/07/18/balancing-precision-and-recall-in-your-cognitive-system/",
+   "year":"2017",
+   "date":"07/18/2017"
+},
+{
+   "title":"Why you should be a mentor",
+   "link":"http://freedville.com/blog/2017/07/05/why-you-should-be-a-mentor/",
+   "year":"2017",
+   "date":"07/05/2017"
+},
+{
+   "title":"Machine learning is just the tip of the iceberg: 5 dangers lurking below the surface",
+   "link":"http://freedville.com/blog/2017/03/05/machine-learning-is-just-the-tip-of-the-iceberg-5-dangers-lurking-below-the-surface/",
+   "year":"2017",
+   "date":"03/05/2017"
+},
+{
+   "title":"Reaching peak cognitive performance: are we there yet?",
+   "link":"http://freedville.com/blog/2017/02/04/reaching-peak-cognitive-performance-are-we-there-yet/",
+   "year":"2017",
+   "date":"02/04/2017"
+},
+{
+   "title":"Comparing rules and machine learning natural language processing approaches",
+   "link":"http://freedville.com/blog/2017/01/25/comparing-rules-and-machine-learning-natural-language-processing-approaches/",
+   "year":"2017",
+   "date":"01/25/2017"
+},
+{
+   "title":"Improving simple natural language processing models with rules or machine learning",
+   "link":"http://freedville.com/blog/2017/01/20/improving-simple-natural-language-processing-models-with-rules-or-machine-learning/",
+   "year":"2017",
+   "date":"01/20/2017"
+},
+{
+   "title":"Demo of natural language processing with rules and machine-learning based approaches",
+   "link":"http://freedville.com/blog/2017/01/13/demo-of-natural-language-processing-with-rules-and-machine-learning-based-approaches/",
+   "year":"2017",
+   "date":"01/13/2017"
+},
+{
+   "title":"Why does machine learning require so much training data?",
+   "link":"http://freedville.com/blog/2016/12/15/why-does-machine-learning-require-so-much-training-data/",
+   "year":"2016",
+   "date":"12/15/2016"
+},
+{
+   "title":"Giving back may take ten years to pay off",
+   "link":"http://freedville.com/blog/2016/12/04/giving-back-may-take-ten-years-to-pay-off/",
+   "year":"2016",
+   "date":"12/04/2016"
+},
+{
+   "title":"Cognitive System Testing From A to Z",
+   "link":"http://freedville.com/blog/2016/12/04/cognitive-system-testing-from-a-to-z/",
+   "year":"2016",
+   "date":"12/04/2016"
+},
+{
+   "title":"Test driven development with Christmas lights",
+   "link":"http://freedville.com/blog/2016/12/01/test-driven-development-with-christmas-lights/",
+   "year":"2016",
+   "date":"12/01/2016"
+},
+{
+   "title":"Training a personal chatbot with Watson Developer Cloud APIs - Part 2",
+   "link":"http://freedville.com/blog/2016/11/12/training-a-personal-chatbot-with-watson-developer-cloud-apis-part-2/",
+   "year":"2016",
+   "date":"11/12/2016"
+},
+{
+   "title":"Training a personal chatbot with Watson Developer Cloud APIs",
+   "link":"http://freedville.com/blog/2016/11/09/training-a-personal-chatbot-with-watson-developer-cloud-apis/",
+   "year":"2016",
+   "date":"11/09/2016"
+},
+{
+   "title":"Feature engineering lessons learned while calculating natural language processing confidence",
+   "link":"http://freedville.com/blog/2016/10/31/feature-engineering-lessons-learned-while-calculating-natural-language-processing-confidence/",
+   "year":"2016",
+   "date":"10/31/2016"
+},
+{
+   "title":"Calculating confidence of natural language processing results using machine learning",
+   "link":"http://freedville.com/blog/2016/10/31/calculating-confidence-of-natural-language-processing-results-using-machine-learning/",
+   "year":"2016",
+   "date":"10/31/2016"
+}
+]

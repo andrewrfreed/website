@@ -1,0 +1,6 @@
+ <div class="list-group" ng-controller="BlogPostsCtrl">
+  <p ng-repeat="post in blogposts">
+    <a href="{{post.link}}" target="_blank">{{post.title}}</a> ({{post.date}})
+  </p>
+  <p>Please see full blog at <a href="http://freedville.com/blog/">http://freedville.com/blog/</a>.
+ </div>
