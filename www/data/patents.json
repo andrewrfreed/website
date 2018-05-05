@@ -1,5 +1,122 @@
 [
  { 
+  "id":"US20180101780 A1",
+  "title":"Machine Learning of Analogic Patterns",
+  "link":"https://patents.google.com/patent/US20180101780A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-04-12",
+  "abstract": "Embodiments relate to a system, program product, and method for use with an intelligent computer platform to decipher analogical phrases. A phrase is parsed into a set of terms to reveal an analogical pattern. The set of terms are categorized according to syntactic placement and each term is placed into two or more categories according to word type patterns in the phrase to produce metadata. The metadata is matched to outcome metadata generated from a set of outcomes produced from data storage and a set of grammatical data is generated for each potential outcome. A statistical model is trained, whereby the training includes weighing and ranking each potential outcome according to degree of congruence with the syntactic placement and word type patterns of the phrase. A highest outcome is selected, the highest outcome being the potential outcome with the highest rank and a confidence level data metric is then applied."
+ },
+ { 
+  "id":"US20180101603 A1",
+  "title":"Analogic Pattern Determination",
+  "link":"https://patents.google.com/patent/US20180101603A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-04-12",
+  "abstract": "Embodiments relate to a system, program product, and method for use with an intelligent computer platform to decipher analogical phrases. An analogy list is obtained, each analogy within the analogy list having a known meaning, and receiving an analogy phrase. A verb is identified within the phrase and a verb definition list is generated. A subject is identified within the phrase and a subject definition list is generated. An adjective is identified within the phrase and an adjective definition list is generated, including filtering adjectives to accept adjective definitions associated with the identified subject. A set of outcomes is identified, incorporating the verb definition, subject definition, and adjective definition, and a corpus is searched for evidentiary use. The outcomes are ranked in accordance to evidentiary use found in the corpus the highest ranked outcome is outputted."
+ },
+ { 
+  "id":"US20180101602 A1",
+  "title":"Analogy Outcome Determination",
+  "link":"https://patents.google.com/patent/US20180101602A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-04-12",
+  "abstract": "Embodiments relate to a system, program product, and method for use with an intelligent computer platform to decipher analogical phrases. A phrase is compared to an analogy classifier database in order to identify a match between the analogical pattern and an analogy entry. If a match is identified, generating an idiomatic structure from the analogical pattern. An analysis is then applied whereby the analysis includes building a set of outcomes of the generated idiomatic structure based on semantic analysis into corresponding metadata for the idiomatic structure. An ontological database is searched for evidence of a pattern associated with the set of outcomes and each entry in the outcome set is scored according to a weighted calculation from the ontological database based on congruence with the pattern. An entry from the outcome set is selected based on the scoring and is represented as a meaning of the analogical pattern."
+ },
+ { 
+  "id":"20180060211 A1",
+  "title":"Applying consistent log levels to application log messages",
+  "link":"https://patents.google.com/patent/US20180060211A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Scott N. Gerard, Dorian B. Miller",
+  "year": "2016",
+  "date": "2016-08-24",
+  "abstract": "A method is provided for analyzing log message content. The computer-implemented method may include detecting, by at least one processor, log messages in an application code, identifying a log level assigned to each of the log messages, and performing natural language processing (NLP) analysis on each of the log messages by using at least keyword and synonym matching percentage analysis criteria. The computer-implemented method may further include determining, in response to the NLP analysis, a severity score of each of the log messages, and reclassifying, based on the severity score, the assigned log level of one or more of the log messages to a different log level."
+ },
+ { 
+  "id":"US20180052914 A1",
+  "title":"Content selection for usage within a policy",
+  "link":"https://patents.google.com/patent/US20180052914A1/",
+  "authors":"Corville O. Allen, John M. Cusick, Andrew R. Freed, Shannen B. Lambdin, Nicolas B. Lopez, Anuj Sharma",
+  "year": "2016",
+  "date": "2016-08-17",
+  "abstract": "In an approach to content selection, one or more computer processors receive a first query from a user. The one or more computer processors retrieve a first response for the first query. The one or more computer processors determine whether the first response exceeds a threshold for a policy for content usage associated with the first response, wherein the policy for content usage specifies one or more restrictions for usage of a content asset. In response to determining the first response exceeds the threshold for the policy for content usage, the one or more computer processors select a first subset of the first response to meet the threshold for the policy for content usage. The one or more computer processors send the first subset of the first response to the user."
+ },
+ { 
+  "id":"US20180046937 A1",
+  "title":"System and method for ground truth evaluation",
+  "link":"https://patents.google.com/patent/US20180046937A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph N. Kozhaya, Dwi Sianto Mansjur",
+  "year": "2018",
+  "date": "2018-02-15",
+  "abstract": "A method for training a question answering system includes providing training questions to a question answering system executing on a computer and to a plurality of subject matter experts. The question answering system generates first answers to each training question. Second answers to the training questions are received from the subject matter experts. Feature scores for each of the first answers and the second answers are generated and compared across the second answers and the first answers. Each of the feature scores is representative of a quality of an answer that is indicative of relevance to a corresponding training question. Based on the comparing, a measure of consistency of the feature scores of the second answers is determined, and a measure of consistency of the feature scores of the second answers to the first answers is determined. The measures of consistency are transmitted to the subject matter experts."
+ },
+ { 
+  "id":"US20180046938 A1",
+  "title":"System and method for ground truth evaluation",
+  "link":"https://patents.google.com/patent/US20180046938A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph N. Kozhaya, Dwi Sianto Mansjur",
+  "year": "2018",
+  "date": "2018-02-15",
+  "abstract": "A method for training a question answering system includes providing training questions to a question answering system executing on a computer and to a plurality of subject matter experts. The question answering system generates first answers to each training question. Second answers to the training questions are received from the subject matter experts. Feature scores for each of the first answers and the second answers are generated and compared across the second answers and the first answers. Each of the feature scores is representative of a quality of an answer that is indicative of relevance to a corresponding training question. Based on the comparing, a measure of consistency of the feature scores of the second answers is determined, and a measure of consistency of the feature scores of the second answers to the first answers is determined. The measures of consistency are transmitted to the subject matter experts."
+ },
+ { 
+  "id":"U20170337294 A1",
+  "title":"Determining Answer Stability in a Question Answering System",
+  "link":"https://patents.google.com/patent/US20170337294A1/",
+  "authors":"Corville O. Allen, Lisa M. Bradley, Christina R. Carlson, Andrew R. Freed, Roderick C. Henderson",
+  "year": "2017",
+  "date": "2017-11-23",
+  "abstract": "An approach is provided to determine answer stability in a question answering (QA) system. In the approach, a question submitted to a question answering (QA) system is selected and data pertaining to a candidate answers generated by the QA system are analyzed. The analysis of the data results in a stability characteristic that pertains to the candidate answers. A confidence value associated with the candidate answers is adjusted based on the respective answer's stability characteristic. One or more of the candidate answers are provided to a requestor based on the adjusted confidence values."
+ },
+ { 
+  "id":"US20170371956 A1",
+  "title":"System and method for precise domain question and answer generation for use as ground truth",
+  "link":"https://patents.google.com/patent/US20170371956A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Rajesh P. Ramachandran",
+  "year": "2016",
+  "date": "2016-06-23",
+  "abstract": "Embodiments provide a system and method for question and answer (QA) generation. Using a cognitive system having natural language processing capabilities, the QA generation system can analyze a corpus of documents, which can each have one or more headings, sub-headings, and fact statements. By analyzing the structural relationships of the one or more headings, the QA generation system can score each fact statement against the headings to score the one or more facts for use as ground truths. Strong facts, with multiple relationships to the one or more headings, can serve as the primary basis for the ground truth established for a particular knowledge domain or sub-domain. Facts can be scored based on their lexical answer type score, their header relevance score, their relationship score, their structure score, and their domain header relevance score."
+ },
+ { 
+  "id":"US20170371955 A1",
+  "title":"System and method for precise domain question and answer generation for use as ground truth",
+  "link":"https://patents.google.com/patent/US20170371955A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Rajesh P. Ramachandran",
+  "year": "2017",
+  "date": "2017-12-28",
+  "abstract": "Embodiments provide a system and method for question and answer (QA) generation. Using a cognitive system having natural language processing capabilities, the QA generation system can analyze a corpus of documents, which can each have one or more headings, sub-headings, and fact statements. By analyzing the structural relationships of the one or more headings, the QA generation system can score each fact statement against the headings to score the one or more facts for use as ground truths. Strong facts, with multiple relationships to the one or more headings, can serve as the primary basis for the ground truth established for a particular knowledge domain or sub-domain. Facts can be scored based on their lexical answer type score, their header relevance score, their relationship score, their structure score, and their domain header relevance score."
+ },
+ { 
+  "id":"US20180011868 A1",
+  "title":"Automatically Reorganize Folder/File Visualizations Based on Natural Language-Derived Intent",
+  "link":"https://patents.google.com/patent/US20180011868A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Adrianus P. Vrouwenvelder",
+  "year": "2016",
+  "date": "2016-07-08",
+  "abstract": "A method, system and computer-usable medium are disclosed for computing file system management. A corpus of content is processed to extract metadata associated with folders and files referenced by a directory structure. Natural Language Processing (NLP) operations are then performed on the corpus to generate concept and entity data associated with each folder and file, followed by performing Natural Language (NL) classification operations to generate intent classification data, which in turn is processed. to determine ranked, dominant intents for each folder and file. The corpus content, extracted metadata, concept and entity data, and ranked dominant intents are then processed to generate indexed content and term data. Application context data associated with an interaction is collected and processed to determine a user intent, which is then processed with the indexed content and term data to identify a corresponding folder and file, which in turn are provided to the user."
+ },
+ { 
+  "id":"US20180032525 A1",
+  "title":"Selecting a content summary based on relevancy",
+  "link":"https://patents.google.com/patent/US20180032525A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph N. Kozhaya, Dwi Sianto Mansjur",
+  "year": "2016",
+  "date": "2016-07-29",
+  "abstract": "A computer-implemented method according to one embodiment includes identifying a plurality of different summaries for a single instance of content, calculating a relevancy score for each of the plurality of different summaries, and selecting one of the plurality of different summaries, based on the relevancy score for each of the plurality of different summaries."
+ },
+ { 
+  "id":"US20180032609 A1",
+  "title":"Determining a relevancy of a content summary",
+  "link":"https://patents.google.com/patent/US20180032609A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph N. Kozhaya, Dwi Sianto Mansjur",
+  "year": "2016",
+  "date": "2016-07-29",
+  "abstract": "A computer-implemented method according to one embodiment includes identifying a summary of a single instance of content, monitoring user interaction with the summary, and determining a relevancy of the summary to the single instance of content, based on the user interaction."
+ },
+ { 
   "id":"US20180011868 A1",
   "title":"Automatically Reorganize Folder/File Visualizations Based on Natural Language-Derived Intent",
   "link":"https://patents.google.com/patent/US20180011868A1/",
@@ -98,7 +215,10 @@
   "title":"Dynamic Portmanteau Word Semantic Identification",
   "link":"https://www.google.com/patents/US20170060849A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Albert A. Chung, Sorabh Murgai",
-  "year": "2017"
+  "year": "2017",
+  "status":"Grant",
+  "issue_id":"US9852124 B2",
+  "issue_link":"https://patents.google.com/patent/US9852124B2/"
  },
  { 
   "id":"US20170060847 A1",
@@ -237,7 +357,10 @@
   "title":"Determining Answer Stability in a Question Answering System",
   "link":"https://patents.google.com/patent/US20160196299A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Lisa M. Bradley, Christina R. Carlson, Roderick C. Henderson",
-  "year": "2016"
+  "year": "2016",
+  "status":"Grant",
+  "issue_id":"US9916395 B2",
+  "issue_link":"https://patents.google.com/patent/US9916395B2/"
  },
  { 
   "id":"US20160196298 A1",
@@ -529,7 +652,10 @@
   "title":"Corpus Quality Analysis",
   "link":"https://patents.google.com/patent/US20160026634A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Beata J. Strack, Richard A. Salmon",
-  "year": "2016"
+  "year": "2016",
+  "status":"Grant",
+  "issue_id":"US9754207 B2",
+  "issue_link":"https://patents.google.com/patent/US9754207B2/"
  },
  { 
   "id":"US20150356456 A1",
@@ -543,7 +669,10 @@
   "title":"Determining Temporal Categories for a Domain of Content for Natural Language Processing",
   "link":"https://patents.google.com/patent/US20150356203A1",
   "authors":"Corville O. Allen, Andrew R. Freed, Dorian B. Miller, Albert A. Chung",
-  "year":"2015"
+  "year":"2015",
+  "status":"Grant",
+  "issue_id":"US9785684 B2",
+  "issue_link":"https://patents.google.com/patent/US9785684B2/"
  },
  {
   "id":"US20150356181 A1",
