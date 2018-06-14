@@ -1,5 +1,68 @@
 [
  { 
+  "id":"US20180151181 A1",
+  "title":"Cognitive Security for Voice Phishing Activity",
+  "link":"https://patents.google.com/patent/US20180151181A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Donna K. Byron",
+  "year": "2018",
+  "date": "2018-05-31",
+  "abstract": "An approach is provided in which a question answer system monitors a voice conversation between a first entity and a second entity. During the conversation, the question answer system parses the conversation into information phrases, and constructs the information phrases into a current conversation pattern. The question answer system identifies deceptive conversation properties of the current conversation by analyzing the current conversation pattern against domain-based conversation patterns. The question answer system, in turn, sends an alert message to the first entity to notify the first entity of the identified deceptive conversation properties."
+ },
+ { 
+  "id":"US20180150453 A1",
+  "title":"Contextual Analogy Resolution",
+  "link":"https://patents.google.com/patent/US20180150453A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-05-31",
+  "abstract": "Embodiments relate to an intelligent computer platform to provide a contextual analogy response. The aspect of providing a contextual analogy response includes receiving a communication that includes an analogy. The analogy within the communication is identified and parsed into grammatical components. The grammatical components are utilized to identify a meaning of the analogy that correlates to a response statement. The grammatical structure of the analogy is analyzed and then utilized together with the grammatical components to construct an analogy representation. A response is communicated as output including both the response statement together with the analogy representation."
+ },
+ { 
+  "id":"US20180150452 A1",
+  "title":"Contextual Analogy Representation",
+  "link":"https://patents.google.com/patent/US20180150452A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-05-31",
+  "abstract": "Embodiments relate to an intelligent computer platform to provide a contextual analogy response. The aspect of providing a contextual analogy response includes receiving a communication that includes an analogy. The analogy within the communication is identified and parsed into grammatical components. The grammatical components are utilized to identify a meaning of the analogy that correlates to a response statement. The grammatical structure of the analogy is analyzed and then utilized together with the grammatical components to construct an analogy representation. A response is communicated as output including both the response statement together with the analogy representation."
+ },
+ { 
+  "id":"US20180150451 A1",
+  "title":"Contextual Analogy Response",
+  "link":"https://patents.google.com/patent/US20180150451A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-05-31",
+  "abstract": "Embodiments relate to an intelligent computer platform to provide a contextual analogy response. The aspect of providing a contextual analogy response includes receiving a communication that includes an analogy. The analogy within the communication is identified and parsed into grammatical components. The grammatical components are utilized to identify a meaning of the analogy that correlates to a response statement. The grammatical structure of the analogy is analyzed and then utilized together with the grammatical components to construct an analogy representation. A response is communicated as output including both the response statement together with the analogy representation."
+ },
+ { 
+  "id":"US20180137102 A1",
+  "title":"Multilingual Idiomatic Phrase Translation",
+  "link":"https://patents.google.com/patent/US20180137102A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-05-07",
+  "abstract": "Embodiments relate to an intelligent computer platform to decipher and translate an analogical phrase. A phrase is translated, yielding a second language phrase. An idiom database is searched for one or more matching idiom phrases. The idiom phrases are ranked according to similarity to the second language phrase and idiom phrase with a highest similarity ranking is outputted as the final output."
+ },
+ { 
+  "id":"US20180137099 A1",
+  "title":"Multilingual Analogy Detection and Resolution",
+  "link":"https://patents.google.com/patent/US20180137099A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-05-07",
+  "abstract": "Embodiments relate to an intelligent computer platform to decipher and translate an analogical phrase. A phrase in a source language is parsed into two or more grammatical sub-components, and a category for each parsed grammatical sub-component is identified. Two or more attributes and definitions of the parsed grammatical components are determined in the first language. These attributes and definitions are translated to a second language. A data source is searched for a meaning of the first language phrase, and the first language phrase is translated to a second language phrase. The second language phrase is converged with the attributes and definitions to produce a target phrase. Second language phrases are searched in a second data source and the target phrase is scored against them. A ranking is applied to the second language phrases and a final phrase is output responsive to the ranking."
+ },
+ { 
+  "id":"US20180121332 A1",
+  "title":"Proactive Cognitive Analysis for Inferring Test Case Dependencies",
+  "link":"https://patents.google.com/patent/US20180121332A1/",
+  "authors":"Pamela D. Andrejko, Andrew R. Freed, Richard A. Salmon, Charles S. Skinner",
+  "year": "2018",
+  "date": "2018-05-03",
+  "abstract": "Mechanisms are provided for evaluating test cases for testing a software product based on a requirements change. The mechanisms analyze a test case corpus to identify a plurality of first relationships between elements of test cases in the test case corpus and generate a test case relationship model based on the identified plurality of first relationships. The mechanisms receive a proposed requirements change to change one or more requirements of the software product and then perform a search of the test case relationship model to identify test case relationships corresponding to the proposed requirements change. The mechanisms identify a subset of test cases affected by the proposed requirements change and generate an output specifying the identified subset of test cases."
+ },
+ { 
   "id":"US20180101780 A1",
   "title":"Machine Learning of Analogic Patterns",
   "link":"https://patents.google.com/patent/US20180101780A1/",
