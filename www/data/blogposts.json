@@ -1,5 +1,71 @@
 [
 {
+   "title":"Cognitive classification and what it can do for you",
+   "link":"http://freedville.com/blog/2018/06/04/cognitive-classification-and-what-it-can-do-for-you/",
+   "year":"2018",
+   "date":"06/04/2018"
+},
+{
+   "title":"Take charge of growing your career",
+   "link":"http://freedville.com/blog/2018/05/03/take-charge-of-growing-your-career/",
+   "year":"2018",
+   "date":"05/03/2018"
+},
+{
+   "title":"Business value, not technology, drives project success",
+   "link":"http://freedville.com/blog/2018/04/27/business-value-not-technology-drives-project-success/",
+   "year":"2018",
+   "date":"04/27/2018"
+},
+{
+   "title":"Beware the allure of rewriting code",
+   "link":"http://freedville.com/blog/2018/03/13/beware-the-allure-of-rewriting-code/",
+   "year":"2018",
+   "date":"03/13/2018"
+},
+{
+   "title":"Work in progress delivers no value",
+   "link":"http://freedville.com/blog/2018/02/18/work-in-progress-delivers-no-value/",
+   "year":"2018",
+   "date":"02/18/2018"
+},
+{
+   "title":"The trickiest bug I faced this year and what it taught me",
+   "link":"http://freedville.com/blog/2018/01/20/the-trickiest-bug-i-faced-this-year-and-what-it-taught-me/",
+   "year":"2018",
+   "date":"01/20/2018"
+},
+{
+   "title":"Book Review: Your Code as a Crime Scene",
+   "link":"http://freedville.com/blog/2018/01/03/book-review-your-code-as-a-crime-scene/",
+   "year":"2018",
+   "date":"01/03/2018"
+},
+{
+   "title":"The 5 most important things I've ever read",
+   "link":"http://freedville.com/blog/2017/12/01/the-5-most-important-things-ive-ever-read/",
+   "year":"2017",
+   "date":"12/01/2017"
+},
+{
+   "title":"Introduction to chat bots with Watson Conversation Service",
+   "link":"http://freedville.com/blog/2017/11/12/introduction-to-chat-bots-with-watson-conversation-service/",
+   "year":"2017",
+   "date":"11/12/2017"
+},
+{
+   "title":"How to organize documents when digitizing them",
+   "link":"http://freedville.com/blog/2017/10/27/how-to-organize-documents-when-digitizing-them/",
+   "year":"2017",
+   "date":"10/27/2017"
+},
+{
+   "title":"What does your cognitive system know about your documents, and why does it matter?",
+   "link":"http://freedville.com/blog/2017/10/12/what-does-your-cognitive-system-know-about-your-documents-and-why-does-it-matter/",
+   "year":"2017",
+   "date":"10/12/2017"
+},
+{
    "title":"Book Review: Effective Debugging",
    "link":"http://freedville.com/blog/2017/09/06/book-review-effective-debugging/",
    "year":"2017",

@@ -60,14 +60,6 @@ app.controller('PatentCtrl', function($scope, $http) {
         });
 });
 
-app.controller('PublishedIpCtrl', function($scope, $http) {
-  console.log("Published IP Controller reporting for duty.");
-  $http.get('/data/publishedip.json')
-       .then(function(res){
-          $scope.publishedip = res.data;                
-        });
-});
-
 app.controller('PublicationCtrl', function($scope, $http) {
   console.log("Publication Controller reporting for duty.");
   $http.get('/data/publications.json')
@@ -97,9 +89,6 @@ app.controller('AccordionWritingCtrl', function ($scope) {
     }, {
         groupTitle: "Blog Posts",
         templateUrl: "partials/blogposts.html"
-    }, {
-        groupTitle: "Published IP",
-        templateUrl: "partials/publishedip.html"
     }];
 
     $scope.status = {
