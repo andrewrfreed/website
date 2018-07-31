@@ -1,5 +1,23 @@
 [
  { 
+  "id":"US20180189417 A1",
+  "title":"Dynamic faceting for personalized search and discovery",
+  "link":"https://patents.google.com/patent/US20180189417A1/en",
+  "authors":"Andrew R. Freed, Norbert Herman, Shubhadip Ray, Avik SANYAL",
+  "year": "2018",
+  "date": "2018-07-05",
+  "abstract": "Methods, computer program products, and systems are presented. The methods include, for instance: determining user clusters and navigation-type clusters based on multiple information requests, and training facets and corresponding usefulness factor of the facets from the multiple information requests by machine learning. When a user submits a query, the user and the query is respectively mapped with one of the user clusters and the navigation-type clusters, and the query is customized based on the associated pair of clusters. Results of the query are obtained, ranked by usefulness of the facets as determined according to the pair of clusters, and presented to the user."
+ },
+ { 
+  "id":"US20180165328 A1",
+  "title":"Apply Corrections to an Ingested Corpus",
+  "link":"https://patents.google.com/patent/US20180165328A1/en",
+  "authors":"Lisa M. Bradley, Christina R. Carlson, Andrew R. Freed, Roderick C. Henderson",
+  "year": "2018",
+  "date": "2018-06-14",
+  "abstract": "An approach is provided to correct documents ingested by a question answering (QA) system. A document previously ingested by the QA system is selected. A correction to the selected document is identified from one or more correction sources and the correction is applied to the selected document within the QA system. In one embodiment, the correction source is a non-ingested document, such as a published document or an issued correction. In another embodiment, the correction source is a post in a forum. In this embodiment, a statement in the ingested document is compared with a contradictory statement found in an ingested post of a threaded discussion. The statement and the contradictory statement are evaluated by the QA system. The statement in the ingested document is replaced with the contradictory statement in response to the evaluation revealing that the contradictory statement is correct and that the statement is incorrect."
+ },
+ { 
   "id":"US20180151181 A1",
   "title":"Cognitive Security for Voice Phishing Activity",
   "link":"https://patents.google.com/patent/US20180151181A1/",
