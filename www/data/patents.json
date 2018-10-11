@@ -1,5 +1,14 @@
 [
  { 
+  "id":"US20180267835 A1",
+  "title":"Managing provisioning for cloud resource allocations",
+  "link":"https://patents.google.com/patent/US20180267835A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2018",
+  "date": "2018-05-11",
+  "abstract": "Resource provisioning to a process in a distributed computing system, such as a cloud computing system. An instruction to provision a resource is received. Portions of the resource are provisioned to the process as they become available, and prior to all portions becoming available, based on determining that the provisioning speed is greater than or equal to the use speed for the resource. If the use speed is faster, it may be actively slowed down."
+ },
+ { 
   "id":"US20180189417 A1",
   "title":"Dynamic faceting for personalized search and discovery",
   "link":"https://patents.google.com/patent/US20180189417A1/en",
@@ -241,27 +250,47 @@
  },
  { 
   "id":"US20170163764 A1",
-  "title":"Managing provisioning for cloud resource allocations",
+  "title":"Reducing utilization speed of disk storage based on rate of resource provisioning ",
   "link":"https://www.google.com/patents/US20170163764A1",
   "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2017",
   "status":"Grant",
-  "issue_id":"US9513971 B2",
-  "issue_link":"https://www.google.com/patents/US9513971B2"
+  "issue_id":"US10007556 B2",
+  "issue_link":"https://www.google.com/patents/US10007556B2",
+  "abstract": "Resource provisioning to a process in a distributed computing system, such as a cloud computing system. An instruction to provision a resource is received. Portions of the resource are provisioned to the process as they become available, and prior to all portions becoming available, based on determining that the provisioning speed is greater than or equal to the use speed for the resource. If the use speed is faster, it may be actively slowed down."
  },
  { 
   "id":"US20170163552 A1",
   "title":"Managing provisioning for cloud resource allocations",
   "link":"https://www.google.com/patents/US20170163552A1",
   "authors":"Corville O. Allen, Andrew R. Freed",
-  "year": "2017"
+  "year": "2017",
+  "status": "Grant",
+  "issue_id": "US9876732 B2",
+  "issue_link": "https://patents.google.com/patent/US9876732B2/",
+  "abstract": "Resource provisioning to a process in a distributed computing system, such as a cloud computing system. An instruction to provision a resource is received. Portions of the resource are provisioned to the process as they become available, and prior to all portions becoming available, based on determining that the provisioning speed is greater than or equal to the use speed for the resource. If the use speed is faster, it may be actively slowed down."
  },
  { 
   "id":"US20170163551 A1",
   "title":"Managing provisioning for cloud resource allocations",
   "link":"https://www.google.com/patents/US20170163551A1",
   "authors":"Corville O. Allen, Andrew R. Freed",
-  "year": "2017"
+  "year": "2017",
+  "status": "Grant",
+  "issue_id": "US9871743 B2",
+  "issue_link": "https://patents.google.com/patent/US9871743B2/",
+  "abstract": "Resource provisioning to a process in a distributed computing system, such as a cloud computing system. An instruction to provision a resource is received. Portions of the resource are provisioned to the process as they become available, and prior to all portions becoming available, based on determining that the provisioning speed is greater than or equal to the use speed for the resource. If the use speed is faster, it may be actively slowed down."
+ },
+ { 
+  "id":"US9513971 B1",
+  "title":"Managing provisioning for cloud resource allocations",
+  "link":"https://www.google.com/patents/US9513971B1",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2016",
+  "status": "Grant",
+  "issue_id": "US9513971 B1",
+  "issue_link": "https://patents.google.com/patent/US9513971B1/",
+  "abstract": "Resource provisioning to a process in a distributed computing system, such as a cloud computing system. An instruction to provision a resource is received. Portions of the resource are provisioned to the process as they become available, and prior to all portions becoming available, based on determining that the provisioning speed is greater than or equal to the use speed for the resource. If the use speed is faster, it may be actively slowed down."
  },
  { 
   "id":"US20170139916 A1",
