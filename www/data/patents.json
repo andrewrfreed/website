@@ -1,5 +1,14 @@
 [
  { 
+  "id":"US20180308005 A1",
+  "title":"Artifical Intelligence Profiling",
+  "link":"https://patents.google.com/patent/US20180308005A1/",
+  "authors":"Andrew R. Freed, Indervir Singh Banipal, Shikhar Kwatra",
+  "year": "2018",
+  "date": "2018-10-25",
+  "abstract": "Technical solutions are described for controlling an artificial intelligent gaming device. For example, a computer-implemented method includes identifying an electronic opponent profile for an opponent. The computer-implemented method also includes selecting, from a profile repository, a first set of robot profiles, where robots trained using robot profiles from the first set of robot profiles have previously defeated the opponent. The computer-implemented method also includes selecting, from the profile repository, a second set of robot profiles, where robots trained using robot profiles from the second set of robot profiles have previously lost to the opponent. The computer-implemented method also includes generating a current robot profile based on the first set of robot profiles and the second robot profiles. The computer-implemented method also includes configuring a robot according to the current robot profile to play against the opponent."
+ },
+ { 
   "id":"US20180267835 A1",
   "title":"Managing provisioning for cloud resource allocations",
   "link":"https://patents.google.com/patent/US20180267835A1/",
