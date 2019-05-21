@@ -1,5 +1,41 @@
 [
  { 
+  "id":"US20190050474 A1",
+  "title":"User interaction during ground truth curation in a cognitive system",
+  "link":"https://patents.google.com/patent/US20190050474A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Sorabh Murgai",
+  "year": "2019",
+  "date": "2019-02-14",
+  "abstract": "An embodiment of the invention may include a method, computer program product, and system for generating ground truth data for a plurality of cognitive capabilities within an overall cognitive system. The embodiment may include configuring multiple sets of training data. Each set of training data corresponds to a separate cognitive capability. The embodiment may include displaying a set of ground truth curation activities via a user interface. The embodiment may include determining the ground truth curation activities performed for a first type of data for a first duration. The first type of data is selected from the single set of grouped training data. The embodiment may include determining whether the first duration has exceeded a pre-determined threshold. The embodiment may include switching the curation activities to a second type of data. The second type of data is selected from the single set of grouped data."
+ },
+ { 
+  "id":"US20190050472 A1",
+  "title":"User interaction during ground truth curation in a cognitive system",
+  "link":"https://patents.google.com/patent/US20190050472A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Sorabh Murgai",
+  "year": "2019",
+  "date": "2019-02-14",
+  "abstract": "An embodiment of the invention may include a method, computer program product, and system for generating ground truth data for a plurality of cognitive capabilities within an overall cognitive system. The embodiment may include configuring multiple sets of training data. Each set of training data corresponds to a separate cognitive capability. The embodiment may include displaying a set of ground truth curation activities via a user interface. The embodiment may include determining the ground truth curation activities performed for a first type of data for a first duration. The first type of data is selected from the single set of grouped training data. The embodiment may include determining whether the first duration has exceeded a pre-determined threshold. The embodiment may include switching the curation activities to a second type of data. The second type of data is selected from the single set of grouped data."
+ },
+ { 
+  "id":"US20190026654 A1",
+  "title":"Bootstrapping Multiple Varieties of Ground Truth for a Cognitive System",
+  "link":"https://patents.google.com/patent/US20190026654A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Sorabh Murgai",
+  "year": "2019",
+  "date": "2019-01-24",
+  "abstract": "Curating high-quality ground truth is an important but difficult part of training a cognitive system. The invention greatly simplifies this process by determining the value that particular training data has in improving existing ground truth. Candidate training data of different types (text, audio, images) is extracted from an interaction log, and each entry is analyzed to arrive at a training value score. The analysis generates multiple component scores which are combined for the final score. The component scores may include a per-feature variability score, a cross-feature variability score, and an accuracy score. A set of the unverified entries may be presented to a user based on the training value scores, and the user can select which of the entries in the set should be included as new ground truths. The ground truths can then be updated by adding the selected entries."
+ }, 
+ { 
+  "id":"US20190026650 A1",
+  "title":"Bootstrapping Multiple Varieties of Ground Truth for a Cognitive System",
+  "link":"https://patents.google.com/patent/US20190026650A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Sorabh Murgai",
+  "year": "2019",
+  "date": "2019-01-24",
+  "abstract": "Curating high-quality ground truth is an important but difficult part of training a cognitive system. The invention greatly simplifies this process by determining the value that particular training data has in improving existing ground truth. Candidate training data of different types (text, audio, images) is extracted from an interaction log, and each entry is analyzed to arrive at a training value score. The analysis generates multiple component scores which are combined for the final score. The component scores may include a per-feature variability score, a cross-feature variability score, and an accuracy score. A set of the unverified entries may be presented to a user based on the training value scores, and the user can select which of the entries in the set should be included as new ground truths. The ground truths can then be updated by adding the selected entries."
+ },  
+ { 
   "id":"US20180308005 A1",
   "title":"Artifical Intelligence Profiling",
   "link":"https://patents.google.com/patent/US20180308005A1/",
