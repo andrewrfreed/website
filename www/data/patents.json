@@ -1,4 +1,40 @@
 [
+ {
+  "id":"US20190164095 A1",
+  "title":"Natural language processing of feeds into functional software input",
+  "link":"https://patents.google.com/patent/US20190164095A1/",
+  "authors":"Kelly A. Argyros, Michael A. Dawson, Daniel J. Ferranti, Andrew R. Freed, Andrew S.H. Ting",
+  "year": "2019",
+  "date": "2019-05-30",
+  "abstract": "A method, in a data processing system comprising a processor and a memory, for processing natural language feeds to software, the method comprising receiving, by the data processing system, a natural language feed including data that is representative of parameters and quantitative data from government or regulatory body data sources, parsing, by the data processing system, the natural language feed with natural language processing for features that correspond to a production system, converting, by the data processing system, the parsed natural language feed into software functions, and calibrating, by the data processing system, the production system by updating a data library using the software functions and integrating information from the data library with the production system."
+ },
+  {
+  "id":"US20190164061 A1",
+  "title":"Analyzing product feature requirements using machine-based learning and information retrieval",
+  "link":"https://patents.google.com/patent/US20190164061A1/",
+  "authors":"Andrew R. Freed, Joan W. Tomlinson",
+  "year": "2019",
+  "date": "2019-05-30",
+  "abstract": "A method and system that includes a data processing system comprising a processor, a memory and an artificial intelligence unit for retrieving information using a knowledge representation. The method comprising receiving, by the data processing system, a selection of a product from a computing device, parsing, by the data processing system, features of the product from product data input, generating, by the data processing system, queries from the parsed features, determining, by the data processing system, candidate answers for the queries, identifying, by the data processing system, requirements for the product based on the candidate answers, and providing, by the data processing system, the requirements to the computing device."
+ },
+  {
+  "id":"US20190164016 A1",
+  "title":"Clustering subject matter experts based on question and answer ratings",
+  "link":"https://patents.google.com/patent/US20190164016A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph Kohzaya",
+  "year": "2019",
+  "date": "2019-05-30",
+  "abstract": "Software that performs the following operations: (i) receiving descriptive information associated with a domain expert; (ii) receiving a question and a corresponding candidate answer for the question; (iii) determining a set of scoring features to be used to evaluate the candidate answer, wherein the set of scoring features includes: at least one scoring feature pertaining to the question, at least one scoring feature pertaining to the candidate answer, and at least one scoring feature pertaining to the descriptive information; (iv) receiving a score from the domain expert, wherein the score is based, at least in part, on the domain expert's evaluation of the candidate answer; (v) generating a feature vector based on the set of scoring features; (vi) cross-correlating the feature vector with the score; and (vii) clustering the domain expert with one or more other domain experts according to the cross-correlation, thereby creating a first cluster."
+ },
+  {
+  "id":"US20190163706 A1",
+  "title":"Ingesting documents using multiple ingestion pipelines",
+  "link":"https://patents.google.com/patent/US20190163706A1/",
+  "authors":"Pamela D. Andrejko, Andrew R. Freed, Cynthia M. Murch, Jan M. Nordland, Humberto R. Rivero",
+  "year": "2019",
+  "date": "2019-01-31",
+  "abstract": "A primary ingestion pipeline configured for use in natural language processing includes annotators configured for annotating documents. The annotators and documents to be annotated are evaluated. Based on the evaluations, an ingestion risk score is generated for each document. Each ingestion risk score represents a likelihood that an associated document will not successfully be annotated by the annotators. Each ingestion risk score is compared to a set of risk criteria. Based on the comparisons, a determination is made that each document of a first set of documents satisfies the set of risk criteria. A further determination is made, based on the comparisons, that each document of a second set of documents does not satisfy the set of risk criteria. In response to these determinations, the first set of documents is entered into the primary ingestion pipeline and the second set of documents is provided special handling."
+ },
  { 
   "id":"US20190050474 A1",
   "title":"User interaction during ground truth curation in a cognitive system",
