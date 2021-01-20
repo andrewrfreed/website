@@ -81,11 +81,11 @@ app.controller('AccordionWritingCtrl', function ($scope) {
     $scope.oneAtATime = false;
 
     $scope.groups = [{
-        groupTitle: "Patents",
-        templateUrl: "partials/patents.html"
-    }, {
         groupTitle: "Publications",
         templateUrl: "partials/publications.html"
+    }, {
+        groupTitle: "Patents",
+        templateUrl: "partials/patents.html"
     }, {
         groupTitle: "Blog Posts",
         templateUrl: "partials/blogposts.html"

@@ -1,5 +1,96 @@
 [
 {
+   "title":"Quickly improve your voice agent with a speech model",
+   "link":"https://medium.com/ibm-data-ai/quickly-improve-your-voice-agent-with-a-speech-model-15f20749cfb",
+   "year":"2020",
+   "date":"04/09/2020"
+},
+{
+   "title":"Analyzing and Improving a Watson Assistant Solution Part 3: Recipes for common analytic patterns",
+   "link":"https://medium.com/ibm-data-ai/analyzing-and-improving-a-watson-assistant-solution-part-3-recipes-for-common-analytic-patterns-1edb4b1f2ef2",
+   "year":"2020",
+   "date":"03/13/2020"
+},
+{
+   "title":"Analyzing and Improving a Watson Assistant Solution Part 2: Foundational Components of Watson Assistant analysis",
+   "link":"https://medium.com/ibm-data-ai/analyzing-and-improving-a-watson-assistant-solution-part-2-foundational-components-of-watson-6596518e7a28",
+   "year":"2020",
+   "date":"03/11/2020"
+},
+{
+   "title":"Analyzing and Improving a Watson Assistant Solution Part 1: Analytics Personas and Existing Solutions
+Image for post",
+   "link":"https://medium.com/ibm-data-ai/analyzing-and-improving-a-watson-assistant-solution-part-1-analytics-personas-and-existing-9fbd2f0b7478",
+   "year":"2020",
+   "date":"03/09/2020"
+},
+{
+   "title":"Why Overfitting is a Bad Idea and How to Avoid It (Part 2: Overfitting in Virtual Assistants)",
+   "link":"https://medium.com/ibm-data-ai/why-overfitting-is-a-bad-idea-and-how-to-avoid-it-part-2-overfitting-in-virtual-assistants-a30f4d999adc",
+   "year":"2020",
+   "date":"01/13/2020"
+},
+{
+   "title":"Why Overfitting is a Bad Idea and How to Avoid It (Part 1: Overfitting in General)",
+   "link":"https://medium.com/ibm-data-ai/why-overfitting-is-a-bad-idea-and-how-to-avoid-it-part-1-overfitting-in-general-b8a3f9ffcf66",
+   "year":"2020",
+   "date":"01/06/2020"
+},
+{
+   "title":"Improve a Chatbot Classifier with Production Data",
+   "link":"https://medium.com/ibm-data-ai/improve-a-chatbot-classifier-with-production-data-22a437f419b4",
+   "year":"2019",
+   "date":"12/12/2019"
+},
+{
+   "title":"Analyze chatbot classifier performance from logs",
+   "link":"https://medium.com/ibm-data-ai/analyze-chatbot-classifier-performance-from-logs-e9cf2c7ca8fd",
+   "year":"2019",
+   "date":"12/11/2019"
+},
+{
+   "title":"Testing a Chatbot with k-folds Cross Validation",
+   "link":"https://medium.com/ibm-data-ai/testing-a-chatbot-with-k-folds-cross-validation-68dab111a6b",
+   "year":"2019",
+   "date":"12/09/2019"
+},
+{
+   "title":"Data Collection and Training for Speech Projects",
+   "link":"https://medium.com/ibm-data-ai/data-collection-and-training-for-speech-projects-22004c3e84fb",
+   "year":"2020",
+   "date":"12/02/2019"
+},
+{
+   "title":"AI Zen Podcast Review: The first six episodes",
+   "link":"http://freedville.com/blog/2019/10/28/ai-zen-podcast-review-the-first-six-episodes/",
+   "year":"2019",
+   "date":"10/28/2019"
+},
+{
+   "title":"Book Review: Shape Up",
+   "link":"http://freedville.com/blog/2019/10/01/book-review-shape-up/",
+   "year":"2019",
+   "date":"10/01/2019"
+},
+{
+   "title":"Best Practices for Building and Maintaining a Chatbot",
+   "link":"https://medium.com/ibm-data-ai/best-practices-for-building-and-maintaining-a-chatbot-a8b78f0b1b72",
+   "year":"2019",
+   "date":"08/07/2019"
+},
+{
+   "title":"Watson Assistant syntax validation for Voice Gateway and SOE integration",
+   "link":"https://medium.com/ibm-data-ai/watson-assistant-syntax-validation-for-voice-gateway-and-soe-integration-55bbb978ed1b",
+   "year":"2019",
+   "date":"06/24/2019"
+},
+{
+   "title":"A Version Control Strategy for AI Applications",
+   "link":"https://medium.com/ibm-data-ai/a-version-control-strategy-for-ai-applications-f421d5b91934",
+   "year":"2019",
+   "date":"04/17/2019"
+},
+{
    "title":"Setting Thresholds: Or, what kind of mistakes do I want to make?",
    "link":"http://freedville.com/blog/2019/04/22/setting-thresholds-or-what-kind-of-mistakes-do-i-want-to-make/",
    "year":"2019",
