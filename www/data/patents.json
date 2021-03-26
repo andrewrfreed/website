@@ -1,5 +1,59 @@
 [
  {
+  "id":"US20190332644 A1",
+  "title":"Machine learned document loss recovery",
+  "link":"https://patents.google.com/patent/US20190332644A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2019",
+  "date": "2019-10-31",
+  "abstract": "A computer-implemented method includes receiving first lossy converted documents. The computer-implemented method includes generating corrected documents for the first lossy converted documents. Each of the corrected documents includes edit markers that reflect structure changes relative to a corresponding document of the first lossy converted documents. The computer-implemented method includes generating feature vectors for the first lossy converted documents. The feature vectors include structure features of the first lossy converted documents. The computer-implemented method includes training one or more models based on the structure features and the edit markers. The computer-implemented method includes applying the trained one or more models to second lossy converted documents to determine proposed structure edits. The computer-implemented method includes transforming the second lossy converted documents to second corrected documents by applying one or more of the proposed structure edits."
+ },
+ {
+  "id":"US20190286688 A1",
+  "title":"Inserting links that aid action completion",
+  "link":"https://patents.google.com/patent/US20190286688A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2019",
+  "date": "2019-09-19",
+  "abstract": "Based on natural language processing of a passage of a first electronic document, a determination is made that the passage indicates an action to be undertaken. In response to this determination and based on an analysis of a second electronic document, the second electronic document is identified as incorporating content preconfigured to allow completion of the action. In response to this identification, the passage is linked to the second electronic document."
+ },
+ {
+  "id":"US20190258659 A1",
+  "title":"Analogy Outcome Determination",
+  "link":"https://patents.google.com/patent/US20190258659A1/en",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2019",
+  "date": "2019-08-22",
+  "abstract": "Embodiments relate to a system, program product, and method for use with an intelligent computer platform to decipher analogical phrases. The method identifies A category is identified and a list of definitions is created for each parsed subcomponent of the phrase. The definitions are ranked in the list based on their relevance to the identified category and an outcome is identified based on the ranked relevance. A corpus is searched for evidence of an analogical pattern associated with the ranked list and each entry in the ranked list is scored based on congruence with the analogical pattern. An outcome is generated based on the scoring and is representative of the definition with the strongest congruence to the analogical pattern."
+ },
+ {
+  "id":"US20190243895 A1",
+  "title":"Contextual Analogy Representation",
+  "link":"https://patents.google.com/patent/US20190243895A1/en?oq=20190243895",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2019",
+  "date": "2019-08-08",
+  "abstract": "Embodiments relate to an intelligent computer platform to provide a contextual analogy response. The aspect of providing a contextual analogy response includes denoting an analogy phrase within a communication. An anaphora within the analogy phrase is detected and a set of sentences are parsed into grammatical components wherein the grammatical type for each parsed component is identified. A sentence is created with the detected anaphora and an action term from the analogy phrase. The set of sentences and the analogy phrase are matched with the identified components that are assigned to a solved analogy association. A related contextual response is attached to the solved analogy association to generate the outputted analogy response."
+ },
+ {
+  "id":"US20190236131 A1",
+  "title":"Linguistic based determination of text location origin",
+  "link":"https://patents.google.com/patent/US20190236131A1/",
+  "authors":"Corville O. Allen, Roberto DeLima, Andrew R. Freed, Robert L. Nielsen",
+  "year": "2019",
+  "date": "2019-08-01",
+  "abstract": "A method and system for determining a location of origin and a time period in which a document was written is disclosed. A text is received and a set of linguistic characteristics for the text are identified. A set of possible locations and time periods for the text are determined based on the set of linguistic characteristics. A set of reference documents are used to determine a proximity rating for the text based upon a determination of how close the text is to the reference documents. The potential locations and time periods are ranked and returned for presentation."
+ },
+ {
+  "id":"US20190220385 A1",
+  "title":"Applying consistent log levels to application log messages ",
+  "link":"https://patents.google.com/patent/US20190220385A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Scott N. Gerard, Dorian B. Miller",
+  "year": "2019",
+  "date": "2019-07-18",
+  "abstract": "A method is provided for analyzing log message content. The computer-implemented method may include detecting, by at least one processor, log messages in an application code, identifying a log level assigned to each of the log messages, and performing natural language processing (NLP) analysis on each of the log messages by using at least keyword and synonym matching percentage analysis criteria. The computer-implemented method may further include determining, in response to the NLP analysis, a severity score of each of the log messages, and reclassifying, based on the severity score, the assigned log level of one or more of the log messages to a different log level."
+ },
+ {
   "id":"US20190164095 A1",
   "title":"Natural language processing of feeds into functional software input",
   "link":"https://patents.google.com/patent/US20190164095A1/",
