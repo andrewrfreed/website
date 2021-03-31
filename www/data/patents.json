@@ -1,5 +1,371 @@
 [
  {
+  "id":"US20210067470 A1",
+  "title":"Methods and systems for improving chatbot intent training ",
+  "link":"https://patents.google.com/patent/US20210067470A1/",
+  "authors":"Andrew R. Freed, Aaron T. Smith, Courtney Branson, Sorabh Murgai",
+  "year": "2021",
+  "date": "2021-03-04",
+  "abstract": "Embodiments for managing chatbots are provided. Chatbot interaction information is received. At least one chatbot interaction within the received chatbot interaction information is identified. The at least one identified chatbot interaction includes an initial utterance provided by a user, an unsuccessful response generated responsive to the initial utterance, a subsequent utterance provided by the user, and a successful response generated responsive to the subsequent utterance. The successful response is associated with a chatbot intent. A confidence score for associating the initial utterance with utilization of the chatbot intent by a chatbot is calculated."
+ },
+ {
+  "id":"US20210064668 A1",
+  "title":"Dynamic Query Processing and Document Retrieval",
+  "link":"https://patents.google.com/patent/US20210064668A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-03-04",
+  "abstract": "Embodiments relate to an intelligent computer platform to identify a lexical answer type (LAT), a first concept relevant to the received request and a second concept related to the identified first concept. The LAT, together with the first and second concepts are utilized to create a first and second cluster. Documents are selectively populated into the clusters. The clusters are subject to sorting based on a relevancy protocol."
+ },
+ {
+  "id":"US20210042291 A1",
+  "title":"Annotation Assessment and Ground Truth Construction",
+  "link":"https://patents.google.com/patent/US20210042291A1",
+  "authors":"Indervir Singh Banipal, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-02-11",
+  "abstract": "Embodiments relate to an intelligent computer platform to construct ground truth data. Annotations are extracted from one or more data elements and characteristic data associated with the extracted annotations is dynamically identified. One or more models are created with the identified characteristic data. Domain activity impact is measured the accuracy of the annotation data is calculated. A policy is generated from the calculated accuracy, wherein the policy includes assigning a score to the annotation data as metadata. Compliance activities are orchestrated based on the generated policy. One or more annotations are selectively re-assigned to the data in compliance with the orchestration, and ground truth data is created from the selective re-assignment."
+ },
+ {
+  "id":"US20210042290 A1",
+  "title":"Annotation Assessment and Adjudication",
+  "link":"https://patents.google.com/patent/US20210042290A1",
+  "authors":"Indervir Singh Banipal, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-02-11",
+  "abstract": "Embodiments relate to an intelligent computer platform to construct ground truth data. A document is subjected to NLP and grammatical elements of the document are identified. The identified grammatical elements are annotated and one or more annotations are assigned to the elements, with each annotation having corresponding meta-data. The assigned annotations are assessed for accuracy and a score associated with the meta-data is adjusted. The annotations are selectively re-assigned with respect to the identified grammatical elements responsive to the adjusted score. Ground truth data is constructed and the selectively re-assigned annotations are assigned to corresponding and identified grammatical elements."
+ },
+ {
+  "id":"US20210034637 A1",
+  "title":"Intelligent use of extraction techniques",
+  "link":"https://patents.google.com/patent/US20210034637A1/",
+  "authors":"Andrew R. Freed, Jason H. Cornpropst, Aaron T. Smith, Barton W. Emanuel",
+  "year": "2021",
+  "date": "2021-02-04",
+  "abstract": "A set of documents is received for processing and extraction. A set of processing engines is received, and each processing engine has an expected benefit when processing a document with associated document metadata. The set of documents is analyzed to determine document metadata to be associated with the document. An expected benefit is determined for each of the documents of the set of document when the respective document is processed by a respective processing engine in the set processing engines. An expected cost for processing is determined for each of the documents in each of the set of processing engines. A processing plan for the set of documents is determined wherein the processing plan identifies a selection of documents to be run in respective processing engines of the set of processing engines based on a cost versus benefit analysis. The processing plan is executed extracting information from the identified selection of documents."
+ },
+ {
+  "id":"US20210029141 A1",
+  "title":"Detection impersonation attempts social media messaging",
+  "link":"https://patents.google.com/patent/US20210029141A1",
+  "authors":"Jasmeet Singh, Andrew R. Freed, Rebecca R. James, Stephan Roorda",
+  "year": "2021",
+  "date": "2021-01-28",
+  "abstract": "Embodiments include a method, system and computer program product for detecting impersonation attempts in social media messaging. Aspects include receiving, via a social media network, a message from a sender to a recipient and analyzing a content of the message to extract factual statements from the message. Aspects also include analyzing a profile of the recipient to extract facts from the profile and comparing each of the factual statements to the facts from the profile. Based on a determination that one of the factual statements are verifiable by at least one of the facts, aspects include assigning a likelihood score to the factual statements. Aspects further include calculating a legitimacy score for the message based at least in part on the likelihood score of each verified factual statement from the message and transmitting the legitimacy score and the message to the recipient."
+ },
+ {
+  "id":"US20210019307 A1",
+  "title":"Natural Language-Aided Conversational Exploration of Self-Documenting Application Programming Interfaces",
+  "link":"https://patents.google.com/patent/US20210019307A1/",
+  "authors":"Isa M. Torres, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-07-18",
+  "abstract": "Intent-based exploring of self-documenting Application Programming Interface (“API”) documents comprises receiving a document containing a plurality of descriptions of APIs, wherein the document is in a structured format; generating a plurality of entities by identifying a plurality of API definition entries in the document; generating a plurality of intents by iterating through a plurality of path entries in the document; generating a dialog by creating a plurality of phrases by iterating through the plurality of path entries in the document; receiving one or more questions from a user or developer; and in response to the one or more questions, providing one or more conversational responses to the user by a conversational application program incorporating the plurality of entities, plurality of intents, and plurality of phrases."
+ },  {
+  "id":"US20210019306 A1",
+  "title":"Natural Language-Aided Conversational Exploration of Self-Documenting Application Programming Interfaces",
+  "link":"https://patents.google.com/patent/US20210019306A1/",
+  "authors":"Isa M. Torres, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-07-18",
+  "abstract": "Intent-based exploring of self-documenting Application Programming Interface (“API”) documents comprises receiving a document containing a plurality of descriptions of APIs, wherein the document is in a structured format; generating a plurality of entities by identifying a plurality of API definition entries in the document; generating a plurality of intents by iterating through a plurality of path entries in the document; generating a dialog by creating a plurality of phrases by iterating through the plurality of path entries in the document; receiving one or more questions from a user or developer; and in response to the one or more questions, providing one or more conversational responses to the user by a conversational application program incorporating the plurality of entities, plurality of intents, and plurality of phrases."
+ },
+ {
+  "id":"US20200404462 A1",
+  "title":"Vehicle to vehicle messaging",
+  "link":"https://patents.google.com/patent/US20200404462A1/",
+  "authors":"Isa M. Torres, Andrew R. Freed, Timothy J. Hahn",
+  "year": "2020",
+  "date": "2020-12-24",
+  "abstract": "A computer-implemented method for vehicle to vehicle messaging. The method captures a voice command of a user in a first vehicle, and extracts an intent, a target recipient, and a message payload from the captured voice command of the user, using natural language processing. The method further analyzes video content from one or more cameras of the first vehicle, and identifies the target recipient relevant to the captured voice command, based on the analyzed video content. The method further transmits the message payload to the identified target recipient based on the extracted intent. In one embodiment, the message payload is transmitted to the target recipient via peer-to-peer communication, together with one or more segments of the analyzed video content and is displayed on a user interface of the identified target recipient."
+ },
+ {
+  "id":"US20200387571 A1",
+  "title":"Relevancy as an indicator for determining document quality",
+  "link":"https://patents.google.com/patent/US20200387571A1/",
+  "authors":"David Contreras, Krishna Mahajan, Roberto DeLima, Andrew R. Freed, Brien Muschett",
+  "year": "2020",
+  "date": "2020-12-10",
+  "abstract": "A method, computer system, and a computer program product for relevancy-based document quality assessment is provided. The present invention may include computing a document quality score based on at least one container relevancy score determined based on at least one domain link to a domain knowledge base."
+ },
+ {
+  "id":"US20200364511 A1",
+  "title":"Retraining a conversation system based on negative feedback",
+  "link":"https://patents.google.com/patent/US20200364511A1/",
+  "authors":"Jason M. Brown, Andrew R. Freed, Aaron T. Smith, Joshua S. Allen, Ryan S. Brink",
+  "year": "2020",
+  "date": "2020-11-19",
+  "abstract": "A method retrains a cognitive interaction information system. One or more processors monitors an interactive communication between a user and the cognitive interactive information system. The processor(s) identifies an incorrect answer returned by the cognitive interactive information system to a question asked by the user; reevaluates the question utilizing alternative intent classifications to form alternative answers; and presents the alternative answers to the user. The processor(s) receive a selection from the alternative answers from the user; updates processing rules to generate updated processing rules that are based on the selection; and retrains the cognitive interaction information system based on the updated processing rules."
+ },
+ {
+  "id":"US20200335090 A1",
+  "title":"Protecting chat with artificial intelligence",
+  "link":"https://patents.google.com/patent/US20200335090A1/",
+  "authors":"Andrew R. Freed, Sorabh Murgai, Aaron T. Smith, Devasena Vridhachalam, Jasmeet Singh, Rebecca R. James",
+  "year": "2020",
+  "date": "2020-10-22",
+  "abstract": "A method, computer system, and computer program product for chat protection. The embodiment may include receiving, in a chat session, a user-spoken communication and one or more inputs specific to a software program. The embodiment may also include predicting a next communication by the user based on the received user spoken communication and the one or more inputs. The embodiment may further include, in response to the predicted next communication containing untoward content, performing a remedial action."
+ }, {
+  "id":"US20200335089 A1",
+  "title":"Protecting chat with artificial intelligence",
+  "link":"https://patents.google.com/patent/US20200335089A1/",
+  "authors":"Andrew R. Freed, Sorabh Murgai, Aaron T. Smith, Devasena Vridhachalam, Jasmeet Singh, Rebecca R. James",
+  "year": "2020",
+  "date": "2020-10-22",
+  "abstract": "A method, computer system, and computer program product for chat protection. The embodiment may include receiving, in a chat session, a user-spoken communication and one or more inputs specific to a software program. The embodiment may also include predicting a next communication by the user based on the received user spoken communication and the one or more inputs. The embodiment may further include, in response to the predicted next communication containing untoward content, performing a remedial action."
+ },
+ {
+  "id":"US20200334546 A1",
+  "title":"Document type-specific quality model",
+  "link":"https://patents.google.com/patent/US20200334546A1/",
+  "authors":"David Contreras, Krishna Mahajan, Roberto DeLima, Andrew R. Freed, Brien Muschett",
+  "year": "2020",
+  "date": "2020-10-22",
+  "abstract": "An approach is provided that receives a document and a document type of the document. The document type identifies a document category to which the received document belongs. A set of linguistic metrics are retrieved that correspond to the document type. A quality of the received document is automatically determined based on a set of linguistic features found in the document as compared to the retrieved set of linguistic metrics. The document is then ingested into a corpus that is utilized by a question-answering (QA) system. The ingestion of the document is based on the determined quality."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Form-based transactional conversation system design ",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-10-22",
+  "abstract": "A method, computer system, and computer program product for form-based conversation system design are provided. The embodiment may include ingesting, by a processor, a plurality of forms from a given domain. The embodiment may also include extracting indicators of required input fields from the ingested plurality of forms. The embodiment may further include generating a required input list based on the extracted indicators of the required input fields to update a size of the required input list. The embodiment may also include determining transactional intents based on the required input list. The embodiments may further include generating a dialog flow that satisfies the determined transactional intents."
+ }, {
+  "id":"US20200334333 A1",
+  "title":"Form-based transactional conversation system design ",
+  "link":"https://patents.google.com/patent/US20200334333A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-10-22",
+  "abstract": "A method, computer system, and computer program product for form-based conversation system design are provided. The embodiment may include ingesting, by a processor, a plurality of forms from a given domain. The embodiment may also include extracting indicators of required input fields from the ingested plurality of forms. The embodiment may further include generating a required input list based on the extracted indicators of the required input fields to update a size of the required input list. The embodiment may also include determining transactional intents based on the required input list. The embodiments may further include generating a dialog flow that satisfies the determined transactional intents."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Implementing enhanced devops process for cognitive search solutions",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Javier Ricardo Torres, Joseph Kozhaya, Andrew R. Freed, Corville O. Allen, Shikhar Kwatra",
+  "year": "2020",
+  "date": "2020-10-22",
+  "abstract": "A method and system are provided for implementing enhanced cognitive searches optimized to integrate deployment with development testing. An initial body of works is ingested into a system capable of answering questions. A series of queries is analyzed against the initial body of works utilizing a set of scorers utilizing criteria to form assessments, wherein each scorer uses the criteria against the query and the initial body of works to form the assessment. The assessments are analyzed to determine a usefulness of a set of entries in the initial body of works. Content are deployed using the identified selected first set of entries as deployment ready, enabling enhanced cognitive search results."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Dynamically networked integrated swarm sensor tracking",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-10-15",
+  "abstract": "A computer-implemented method includes initiating a plurality of devices, each device corresponding to a member of a group, the group including a plurality of members; monitoring proximity information for each of the plurality of devices relative to at least one other one of the plurality of devices; establishing a maximum distance for the devices to be spaced from each other; and in response to one of the devices being separated from another of the devices by more than the maximum distance, sending an alert to at least one of remaining devices."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Headstart for Data Scientists",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Andrew R. Freed, Tristan A. Tenyenhuis, Keith D. Cramer, Sorabh Murgai",
+  "year": "2020",
+  "date": "2020-10-15",
+  "abstract": "A method, system, and apparatus are provided for recommending machine learning (ML) project resources for completing a user project by generating indexed project metadata for a plurality of ML projects, generating search metadata for a search request for ML project resources to develop an ML project, and then evaluating the search metadata against the indexed project metadata for each ML project to form a relevancy assessment which is used to order trained models from the ML projects and to display one or more recommended ML project resources comprising one or more of the plurality of trained models having a relevancy assessment exceeding a relevancy threshold."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Client-specific document quality model",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"David Contreras, Krishna Mahajan, Roberto DeLima, Andrew R. Freed, Brien Muschett",
+  "year": "2020",
+  "date": "2020-09-24",
+  "abstract": "A computer-implemented method, system and computer program product for generating a client-specific document quality model, by: analyzing data using existing quality heuristics to identify new, unexpected or problem patterns in the data; forming the quality heuristics into one or more clusters for each container level of the data; exploring each of the clusters to identify sources of the patterns; and developing new quality heuristics based on the sources of the patterns, wherein the new quality heuristics are used to generate the client-specific document quality model."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Information extraction from open-ended schema-less tables",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Joshua Allen, Andrew R. Freed, Thai T. La",
+  "year": "2020",
+  "date": "2020-09-24",
+  "abstract": "Systems and methods for generating and annotating cell documents include extracting tables from a document using a table extraction engine. Headers are extracted for each of the tables using a header detection engine. Cells are extracted from each of the tables using a cell extraction engine. A cell document is generated for each of the cells which are each correlated to corresponding portions of the headers, each cell document recording the correlation between the cells and the headers. Each cell document is annotated to generate annotated cell documents with a cell recognition model trained to perform natural language processing on the cell documents by classifying each term in each of the cell documents and extracting relationships between the terms of each of the cell documents."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"System for Minimizing Reevaluation of a Ground Truth Corpus in Response to Concept Drift",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Tristan A. Tenyenhuis, Andrew R. Freed, Jocelyn Kong, Allegra Larche, Christopher R. Weber",
+  "year": "2020",
+  "date": "2020-07-30",
+  "abstract": "A method, system and computer-usable medium are disclosed for minimizing reevaluation of a ground truth corpus in response to concept drift. Certain embodiments are directed to a computer implemented comprising: generating a knowledge graph using a ground truth corpus, where the knowledge graph includes concept nodes, context definition nodes, and document nodes, where each concept node has one or more edges to a context definition node and to a document node; updating a context definition node in the knowledge graph based on context drift; identifying edges between the updated context definition node and concept nodes affected by the updated context definition; and identifying edges between the affected concept nodes and corresponding document nodes to identify document nodes affected by the context drift; and reevaluating documents in the ground truth corpus corresponding to the affected document nodes pursuant to updating the ground truth corpus to compensate for the context drift."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Evaluating retraining recommendations for an automated conversational service",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Tristan A. Tenyenhuis, Isa M. Torres, Andrew R. Freed, Barton W. Emanuel",
+  "year": "2020",
+  "date": "2020-07-23",
+  "abstract": "A retraining service accesses conversational logs, each of the conversational logs recording a separate conversation, between a separate user and a conversational service, and at least one outcome identified with the separate conversation. The retraining service assess, from the conversational logs, at least one conversation gap and response with the at least one outcome matching a type of outcome that indicates the response impacted user experience in a negative way from among types of outcomes. The retraining service evaluates one or more recommendations for retraining the response to promote a positive type of outcome from among the types of outcomes. The retraining service outputs the one or more recommendations to the conversational service for directing retraining of the response by the conversational service."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Dynamic Natural Language Processing",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-07-16",
+  "abstract": "Embodiments relate to an intelligent computer platform to support natural language (NL) processing. The request is analyzed and a lexical answer type (LAT) related to the received request is identified. A knowledge graph (KG) related to the LAT is identified and leveraged to extract a first concept related to the LAT and a second concept related to the first concept. First and second cluster are created, with the first cluster having the LAT and first concept as qualifiers, and the second cluster having the first and second concepts as qualifiers. Each of the formed clusters is populated with one or more documents. An inter-cluster assessment is conducted based on the relevancy of the populated document(s) to the received input. In addition, a machine learning model (MLM) corresponding to the KG is identified and utilized to selectively augment the MLM with the LAT, first and second concepts, and a corresponding relationship to the inter-cluster assessment."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Dynamic Query Processing and Document Retrieval",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-07-16",
+  "abstract": "Embodiments relate to an intelligent computer platform to receive a request for processing against a corpus. The request is analyzed and a lexical answer type (LAT), a first concept relevant to the received request and a second concept related to the identified first concept, are each identified. The LAT, together with the first and second concepts are utilized to create a first and second cluster. Documents are selectively populated into the clusters based on the respective LAT and concept qualifiers. The clusters are subject to sorting based on relevancy to the received request."
+ },
+ {
+  "id":"US20200210476 A1",
+  "title":"Personalized video and memories creation based on enriched images ",
+  "link":"https://patents.google.com/patent/US20200210476A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-07-02",
+  "abstract": "A method for creating content includes making a corpus of images available, adding a plurality of tag data to each of the images, receiving a query, extracting a trigger from the query, identifying a set of the images in the corpus, wherein identified images have tag data matching the extracted trigger, and creating a video comprising the identified images."
+ },
+ {
+  "id":"US20200210258 A1",
+  "title":"Validation Framework for Runtime Connected API Systems",
+  "link":"https://patents.google.com/patent/US20200210258A1/",
+  "authors":"Keith D. Cramer, Andrew R. Freed, Tristan A. Tenyenhuis",
+  "year": "2020",
+  "date": "2020-07-02",
+  "abstract": "Provided is a validation framework for modelling possible failures that might occur when an orchestrated transaction calls external services to ensure that error handling and reporting is robust and well designed. The disclosed techniques ensure that no changes are necessary to either the code making a call or the services that might be called. The techniques are not limited to web servers and REST APIs as they may be used to test and validate any kind of system that employs well defined APIs. The claimed subject matter, or “validation framework” may be added to an existing API or created as a new module that acts as a proxy server in a non-micro service type of system. Although described with respect to a gateway-API service, the claimed subject matter is equally applicable to other systems that process orchestrated transactions."
+ },
+ {
+  "id":"US20200152173 A1",
+  "title":"Training artificial intelligence to respond to user utterances",
+  "link":"https://patents.google.com/patent/US20200152173A1/",
+  "authors":"Aaron T. Smith, Andrew R. Freed, Joshua S. Allen, Jason M. Brown, Ryan Brink, Sorabh Murgai",
+  "year": "2020",
+  "date": "2020-05-14",
+  "abstract": "A method improves a functionality of a conversational agent that is generated by an artificial intelligence (AI) system. A conversational agent receives a first utterance from a first entity. The AI system identifies an unverified response to the first utterance; sends the unverified response to the first entity; and receives a positive feedback indication about the unverified response from the first entity. The AI system searches a data store in order to identify an entry for a second utterance by a second entity, where the second entity has sent a positive feedback for the unverified response. The AI system sends the second utterance and the unverified response to the first entity, and receives a positive feedback for the unverified response to the second utterance from the first entity in order to mark the unverified response as a verified response, which responds to future receipts of the first utterance."
+ },
+ {
+  "id":"US20200151555 A1",
+  "title":"Detecting and reducing bias in machine learning models",
+  "link":"https://patents.google.com/patent/US20200151555A1/",
+  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-05-24",
+  "abstract": "A method identifies and removes bias from a machine learning model. A user/computer inputs a plurality of input training data into a machine learning system to generate an output of labeled output data. The user/computer evaluates the labeled output data according to a consistency metric to associate the labeled output data with a corresponding consistency assessment. The user/computer selects each labeled output data having a consistency assessment indicating a consistency assessment that is greater than a predetermined threshold to form a labeled output data subset, and then creates additional labeling for the labeled output data subset. The user/computer utilizes the additional labeling to distinguish each labeled training data from labeled output data subset as being mislabeled and biased, and then adjusts the learning machine based on the labeled output data subset being mislabeled and biased."
+ },
+ {
+  "id":"US20200125827 A1",
+  "title":"Classifying digital documents in multi-document transactions based on signatory role analysis",
+  "link":"https://patents.google.com/patent/US20200125827A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-04-23",
+  "abstract": "A classifier receives a document and analyzes the document to determine one or more predicted roles of one or more signatories, each predicted role determined based on one or more signature elements in the content of the document executed by the one or more signatories. The classifier evaluates each of the one or more predicted roles in view of a plurality of expected signatory role characteristics of a plurality of categories of documents of a transaction to select a particular category associated with the document from among the plurality of categories. The classifier classifies the document within the transaction as a particular logical type identified by the particular category from among a plurality of logical types for the transaction."
+ },
+ {
+  "id":"US20200104350 A1",
+  "title":"Information extraction from open-ended schema-less tables",
+  "link":"https://patents.google.com/patent/US20200104350A1/",
+  "authors":"Joshua Allen, Andrew R. Freed, Thai T. La",
+  "year": "2020",
+  "date": "2020-04-02",
+  "abstract": "Systems and methods for generating and annotating cell documents include extracting tables from a document using a table extraction engine. Headers are extracted for each of the tables using a header detection engine. Cells are extracted from each of the tables using a cell extraction engine. A cell document is generated for each of the cells which are each correlated to corresponding portions of the headers, each cell document recording the correlation between the cells and the the headers. Each cell document is annotated to generate annotated cell documents with a cell recognition model trained to perform natural language processing on the cell documents by classifying each term in each of the cell documents and extracting relationships between the terms of each of the cell documents."
+ },
+ {
+  "id":"US20200097759 A1",
+  "title":"Table Header Detection Using Global Machine Learning Features from Orthogonal Rows and Columns",
+  "link":"https://patents.google.com/patent/US20200097759A1/",
+  "authors":"Kyle G. Christianson, Hassan Nadim, Joshua S. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-03-26",
+  "abstract": "A method, system and computer-usable medium for detecting headers in various documents, such as PDF and HTML files. The files are converted to a two dimensional array or table, having orthogonal rows and columns. Either rows or columns are determined to include headers. For determining if rows include headers. For each row in the array or table, pair wise comparison is performed for each cell of each column that is orthogonal to that row. The pair wise comparison scores or values are summed up for each orthogonal column to that row and the sum across for all the orthogonal columns to row provide a score or value for that row. Row scores are evaluated relative to one another to determine likelihood of headers in the row. For determining if columns have headers, similar calculation is performed between columns and their orthogonal rows."
+ },
+ {
+  "id":"US20200097541 A1",
+  "title":"System for Extracting Header Labels for Header Cells in Tables Having Complex Header Structures ",
+  "link":"https://patents.google.com/patent/US20200097541A1/",
+  "authors":"Kyle G. Christianson, Hassan Nadim, Joshua S. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-03-26",
+  "abstract": "A method, system and computer-usable medium are disclosed for associating data cells with headers and header labels. In certain embodiments, a table having rows and columns is received, wherein the table includes a plurality of cells, wherein each cell is populated with at least one of a header name, data value, or no information. A determination is made as to whether a cell is a header cell or data cell. If the cell is a header cell, current list of column and current list of row headers are dynamically updated. The current list of column and row headers are assigned to the cell regardless of whether the cell is a header cell or data cell. Headers associated with header cells are used to identify label candidates for the header name of the header cell. The labels may be used to provide additional context for headers within a data cell."
+ },
+ {
+  "id":"US20200097533 A1",
+  "title":"System for Associating Data Cells with Headers in Tables Having Complex Header Structures",
+  "link":"https://patents.google.com/patent/US20200097533A1/",
+  "authors":"Kyle G. Christianson, Hassan Nadim, Joshua S. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-03-26",
+  "abstract": "A method, system and computer-usable medium are disclosed for associating data cells with headers and tables having one or more embedded header structures. In certain embodiments, a table having rows and columns is received, wherein the table includes a plurality of cells, wherein each cell is populated with at least one of a header name, data value, or no information, the table having at least one embedded header. A determination is made as to whether a cell is a header cell or data cell. If the cell is a header cell, a count of consecutive column headers is maintained. A current list of column headers is dynamically updated based on the count of the consecutive column headers. Upon encountering a data cell, the current list of column headers is assigned to the data cell."
+ },
+ {
+  "id":"US20200097532 A1",
+  "title":"Intelligent Normalization and De-Normalization of Tables for Multiple Processing Scenarios",
+  "link":"https://patents.google.com/patent/US20200097532A1/",
+  "authors":"Kyle G. Christianson, Hassan Nadim, Joshua S. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-03-26",
+  "abstract": "A method, system and computer-usable medium are disclosed for finding vertically and horizontally aligned cells in a complex table structure. A file or document, such as an HTML file that defines a complex table includes spanning rows and columns is expanded into a two dimensional (2D) array or table with orthogonal rows and columns, where the spanning rows and columns included cells with copied values or object references. The expanded 2D array or table can be deduplicated row or column wise to determine header alignment of the table."
+ },
+ {
+  "id":"US20200034732 A1",
+  "title":"System and Method for Automated Analysis of Ground Truth Using Confidence Model to Prioritize Correction Options",
+  "link":"https://patents.google.com/patent/US20200034732A1/",
+  "authors":"Andrew R. Freed, Kyle G. CHRISTIANSON, Christopher Phipps",
+  "year": "2020",
+  "date": "2020-01-30",
+  "abstract": "A method, system and computer-usable medium are disclosed for automated analysis of ground truth using confidence model to prioritize correction options. In certain embodiments, the ground truth data is analyzed to identify review-candidates. A confidence level may be assigned to each of the identified review-candidates and the review-candidates are prioritized, at least in part, using the assigned confidence levels. The review-candidates are electronically presented in prioritized order to solicit verification or correction feedback for updating the ground truth data"
+ },
+ {
+  "id":"US20200005032 A1",
+  "title":"Classifying digital documents in multi-document transactions based on embedded dates",
+  "link":"https://patents.google.com/patent/US20200005032A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2020",
+  "date": "2020-01-02",
+  "abstract": "A classifier receives a document from a multi-document transaction. The classifier analyzes the document to identify one or more embedded dates in the content of the document and context of one or more positions of the one or more embedded dates in the document. The classifier evaluates each of the one or more embedded dates based on the separate context of each of the one or more positions within the document and a relative age of the one or more embedded dates in view of temporal characteristics of multiple categories of documents of a transaction to select a particular category associated with the document from among the multiple categories. The classifier classifies the document within the transaction as a particular logical type identified by the particular category from among multiple logical types."
+ },
+ {
+  "id":"US20190391956 A1",
+  "title":"Cloud Sharing and Selection of Machine Learning Models for Service Use ",
+  "link":"https://patents.google.com/patent/US20190391956A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph N. Kozhaya",
+  "year": "2019",
+  "date": "2019-11-26",
+  "abstract": "An approach is provided in which an information handling system performs multiple tests using a cognitive service and multiple trained machine learning models on user data corresponding to a user application. For each of the multiple tests, a different one of the trained machine learning models is utilized. The information handling system generates results from the tests and then selects at least one of the trained machine learning models based on the test results. In turn, the information handling system assigns the cognitive service and the selected trained machine learning models to the user application."
+ },
+ {
+  "id":"US20190370540 A1",
+  "title":"Electronic Document Classification System Optimized for Combining a Plurality of Contemporaneously Scanned Documents ",
+  "link":"https://patents.google.com/patent/US20190370540A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2019",
+  "date": "2019-12-05",
+  "abstract": "A method, system and computer-usable medium for classifying a source document using sub-documents identified in the source document. The method, system, and computer-usable medium are used to access the source document from electronic memory. The source document is electronically searched to detect markers indicative of whether the source document includes one or more sub-documents. Incongruities in the source document are located using the detected markers and the source document is split into sub-documents at the located incongruities. Each of the sub-documents is classified. The sub-documents are joined as a re-assembled source document with classifications including classifications for one or more of the sub-documents."
+ },
+ {
+  "id":"US20190361980 A1",
+  "title":"Inferring confidence and need for natural language processing of input data ",
+  "link":"https://patents.google.com/patent/US20190361980A1/",
+  "authors":"Troy Biesterfeld, Andrew R Freed, Elizabeth T Dettman, Jeremy J Salsman, Paul R Chmielewski",
+  "year": "2019",
+  "date": "2019-11-28",
+  "abstract": "Improved data ingestion techniques are provided. A data set comprising records is received, where each record contains one or more fields. A group of fields is identified, where each of the fields has a common metadata attribute. Metrics are determined for the group based on metadata associated with each field, and weight values are assigned to each of the metrics. A natural language processing (NLP) measure and a discreteness measure are generated for the group of fields based on the metrics and the weight values. A processing workflow is selected to use when ingesting data from the group of fields into a corpus, based on comparing the NLP measure and the discreteness measure to one or more predefined thresholds, and each of the fields in the group of fields are processed using the processing workflow."
+ },
+ {
+  "id":"US20190354555 A1",
+  "title":"Dynamic faceting for personalized search and discovery",
+  "link":"https://patents.google.com/patent/US20190354555A1/",
+  "authors":"Andrew R. Freed, Norbert Herman, Shubhadip Ray, Avik Sanyal",
+  "year": "2019",
+  "date": "2019-11-21",
+  "abstract": "Methods, computer program products, and systems are presented. The methods include, for instance: determining user clusters and navigation-type clusters based on multiple information requests, and training facets and corresponding usefulness factor of the facets from the multiple information requests by machine learning. When a user submits a query, the user and the query is respectively mapped with one of the user clusters and the navigation-type clusters, and the query is customized based on the associated pair of clusters. Results of the query are obtained, ranked by usefulness of the facets as determined according to the pair of clusters, and presented to the user."
+ },
+ {
   "id":"US20190332644 A1",
   "title":"Machine learned document loss recovery",
   "link":"https://patents.google.com/patent/US20190332644A1/",
