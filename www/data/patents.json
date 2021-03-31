@@ -12,7 +12,7 @@
   "id":"US20210064668 A1",
   "title":"Dynamic Query Processing and Document Retrieval",
   "link":"https://patents.google.com/patent/US20210064668A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2021",
   "date": "2021-03-04",
   "abstract": "Embodiments relate to an intelligent computer platform to identify a lexical answer type (LAT), a first concept relevant to the received request and a second concept related to the identified first concept. The LAT, together with the first and second concepts are utilized to create a first and second cluster. Documents are selectively populated into the clusters. The clusters are subject to sorting based on a relevancy protocol."
@@ -48,7 +48,7 @@
   "id":"US20210029141 A1",
   "title":"Detection impersonation attempts social media messaging",
   "link":"https://patents.google.com/patent/US20210029141A1",
-  "authors":"Jasmeet Singh, Andrew R. Freed, Rebecca R. James, Stephan Roorda",
+  "authors":"Jasmeet Singh, Andrew R. Freed, Rebecca R. James, Stephen J. Roorda",
   "year": "2021",
   "date": "2021-01-28",
   "abstract": "Embodiments include a method, system and computer program product for detecting impersonation attempts in social media messaging. Aspects include receiving, via a social media network, a message from a sender to a recipient and analyzing a content of the message to extract factual statements from the message. Aspects also include analyzing a profile of the recipient to extract facts from the profile and comparing each of the factual statements to the facts from the profile. Based on a determination that one of the factual statements are verifiable by at least one of the facts, aspects include assigning a likelihood score to the factual statements. Aspects further include calculating a legitimacy score for the message based at least in part on the likelihood score of each verified factual statement from the message and transmitting the legitimacy score and the message to the recipient."
@@ -127,7 +127,7 @@
   "id":"US20200210476 A1",
   "title":"Form-based transactional conversation system design ",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-10-22",
   "abstract": "A method, computer system, and computer program product for form-based conversation system design are provided. The embodiment may include ingesting, by a processor, a plurality of forms from a given domain. The embodiment may also include extracting indicators of required input fields from the ingested plurality of forms. The embodiment may further include generating a required input list based on the extracted indicators of the required input fields to update a size of the required input list. The embodiment may also include determining transactional intents based on the required input list. The embodiments may further include generating a dialog flow that satisfies the determined transactional intents."
@@ -135,7 +135,7 @@
   "id":"US20200334333 A1",
   "title":"Form-based transactional conversation system design ",
   "link":"https://patents.google.com/patent/US20200334333A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-10-22",
   "abstract": "A method, computer system, and computer program product for form-based conversation system design are provided. The embodiment may include ingesting, by a processor, a plurality of forms from a given domain. The embodiment may also include extracting indicators of required input fields from the ingested plurality of forms. The embodiment may further include generating a required input list based on the extracted indicators of the required input fields to update a size of the required input list. The embodiment may also include determining transactional intents based on the required input list. The embodiments may further include generating a dialog flow that satisfies the determined transactional intents."
@@ -144,7 +144,7 @@
   "id":"US20200210476 A1",
   "title":"Implementing enhanced devops process for cognitive search solutions",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Javier Ricardo Torres, Joseph Kozhaya, Andrew R. Freed, Corville O. Allen, Shikhar Kwatra",
+  "authors":"Javier Ricardo Torres, Joseph N. Kozhaya, Andrew R. Freed, Corville O. Allen, Shikhar Kwatra",
   "year": "2020",
   "date": "2020-10-22",
   "abstract": "A method and system are provided for implementing enhanced cognitive searches optimized to integrate deployment with development testing. An initial body of works is ingested into a system capable of answering questions. A series of queries is analyzed against the initial body of works utilizing a set of scorers utilizing criteria to form assessments, wherein each scorer uses the criteria against the query and the initial body of works to form the assessment. The assessments are analyzed to determine a usefulness of a set of entries in the initial body of works. Content are deployed using the identified selected first set of entries as deployment ready, enabling enhanced cognitive search results."
@@ -153,7 +153,7 @@
   "id":"US20200210476 A1",
   "title":"Dynamically networked integrated swarm sensor tracking",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-10-15",
   "abstract": "A computer-implemented method includes initiating a plurality of devices, each device corresponding to a member of a group, the group including a plurality of members; monitoring proximity information for each of the plurality of devices relative to at least one other one of the plurality of devices; establishing a maximum distance for the devices to be spaced from each other; and in response to one of the devices being separated from another of the devices by more than the maximum distance, sending an alert to at least one of remaining devices."
@@ -180,7 +180,7 @@
   "id":"US20200210476 A1",
   "title":"Information extraction from open-ended schema-less tables",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Joshua Allen, Andrew R. Freed, Thai T. La",
+  "authors":"Joshua S. Allen, Andrew R. Freed, Thai T. La",
   "year": "2020",
   "date": "2020-09-24",
   "abstract": "Systems and methods for generating and annotating cell documents include extracting tables from a document using a table extraction engine. Headers are extracted for each of the tables using a header detection engine. Cells are extracted from each of the tables using a cell extraction engine. A cell document is generated for each of the cells which are each correlated to corresponding portions of the headers, each cell document recording the correlation between the cells and the headers. Each cell document is annotated to generate annotated cell documents with a cell recognition model trained to perform natural language processing on the cell documents by classifying each term in each of the cell documents and extracting relationships between the terms of each of the cell documents."
@@ -207,7 +207,7 @@
   "id":"US20200210476 A1",
   "title":"Dynamic Natural Language Processing",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-07-16",
   "abstract": "Embodiments relate to an intelligent computer platform to support natural language (NL) processing. The request is analyzed and a lexical answer type (LAT) related to the received request is identified. A knowledge graph (KG) related to the LAT is identified and leveraged to extract a first concept related to the LAT and a second concept related to the first concept. First and second cluster are created, with the first cluster having the LAT and first concept as qualifiers, and the second cluster having the first and second concepts as qualifiers. Each of the formed clusters is populated with one or more documents. An inter-cluster assessment is conducted based on the relevancy of the populated document(s) to the received input. In addition, a machine learning model (MLM) corresponding to the KG is identified and utilized to selectively augment the MLM with the LAT, first and second concepts, and a corresponding relationship to the inter-cluster assessment."
@@ -216,7 +216,7 @@
   "id":"US20200210476 A1",
   "title":"Dynamic Query Processing and Document Retrieval",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-07-16",
   "abstract": "Embodiments relate to an intelligent computer platform to receive a request for processing against a corpus. The request is analyzed and a lexical answer type (LAT), a first concept relevant to the received request and a second concept related to the identified first concept, are each identified. The LAT, together with the first and second concepts are utilized to create a first and second cluster. Documents are selectively populated into the clusters based on the respective LAT and concept qualifiers. The clusters are subject to sorting based on relevancy to the received request."
@@ -225,7 +225,7 @@
   "id":"US20200210476 A1",
   "title":"Personalized video and memories creation based on enriched images ",
   "link":"https://patents.google.com/patent/US20200210476A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-07-02",
   "abstract": "A method for creating content includes making a corpus of images available, adding a plurality of tag data to each of the images, receiving a query, extracting a trigger from the query, identifying a set of the images in the corpus, wherein identified images have tag data matching the extracted trigger, and creating a video comprising the identified images."
@@ -243,7 +243,7 @@
   "id":"US20200152173 A1",
   "title":"Training artificial intelligence to respond to user utterances",
   "link":"https://patents.google.com/patent/US20200152173A1/",
-  "authors":"Aaron T. Smith, Andrew R. Freed, Joshua S. Allen, Jason M. Brown, Ryan Brink, Sorabh Murgai",
+  "authors":"Aaron T. Smith, Andrew R. Freed, Joshua S. Allen, Jason M. Brown, Ryan S. Brink, Sorabh Murgai",
   "year": "2020",
   "date": "2020-05-14",
   "abstract": "A method improves a functionality of a conversational agent that is generated by an artificial intelligence (AI) system. A conversational agent receives a first utterance from a first entity. The AI system identifies an unverified response to the first utterance; sends the unverified response to the first entity; and receives a positive feedback indication about the unverified response from the first entity. The AI system searches a data store in order to identify an entry for a second utterance by a second entity, where the second entity has sent a positive feedback for the unverified response. The AI system sends the second utterance and the unverified response to the first entity, and receives a positive feedback for the unverified response to the second utterance from the first entity in order to mark the unverified response as a verified response, which responds to future receipts of the first utterance."
@@ -252,7 +252,7 @@
   "id":"US20200151555 A1",
   "title":"Detecting and reducing bias in machine learning models",
   "link":"https://patents.google.com/patent/US20200151555A1/",
-  "authors":"Joseph Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
   "year": "2020",
   "date": "2020-05-24",
   "abstract": "A method identifies and removes bias from a machine learning model. A user/computer inputs a plurality of input training data into a machine learning system to generate an output of labeled output data. The user/computer evaluates the labeled output data according to a consistency metric to associate the labeled output data with a corresponding consistency assessment. The user/computer selects each labeled output data having a consistency assessment indicating a consistency assessment that is greater than a predetermined threshold to form a labeled output data subset, and then creates additional labeling for the labeled output data subset. The user/computer utilizes the additional labeling to distinguish each labeled training data from labeled output data subset as being mislabeled and biased, and then adjusts the learning machine based on the labeled output data subset being mislabeled and biased."
@@ -270,7 +270,7 @@
   "id":"US20200104350 A1",
   "title":"Information extraction from open-ended schema-less tables",
   "link":"https://patents.google.com/patent/US20200104350A1/",
-  "authors":"Joshua Allen, Andrew R. Freed, Thai T. La",
+  "authors":"Joshua S. Allen, Andrew R. Freed, Thai T. La",
   "year": "2020",
   "date": "2020-04-02",
   "abstract": "Systems and methods for generating and annotating cell documents include extracting tables from a document using a table extraction engine. Headers are extracted for each of the tables using a header detection engine. Cells are extracted from each of the tables using a cell extraction engine. A cell document is generated for each of the cells which are each correlated to corresponding portions of the headers, each cell document recording the correlation between the cells and the the headers. Each cell document is annotated to generate annotated cell documents with a cell recognition model trained to perform natural language processing on the cell documents by classifying each term in each of the cell documents and extracting relationships between the terms of each of the cell documents."
@@ -315,7 +315,7 @@
   "id":"US20200034732 A1",
   "title":"System and Method for Automated Analysis of Ground Truth Using Confidence Model to Prioritize Correction Options",
   "link":"https://patents.google.com/patent/US20200034732A1/",
-  "authors":"Andrew R. Freed, Kyle G. CHRISTIANSON, Christopher Phipps",
+  "authors":"Andrew R. Freed, Kyle G. Christianson, Christopher Phipps",
   "year": "2020",
   "date": "2020-01-30",
   "abstract": "A method, system and computer-usable medium are disclosed for automated analysis of ground truth using confidence model to prioritize correction options. In certain embodiments, the ground truth data is analyzed to identify review-candidates. A confidence level may be assigned to each of the identified review-candidates and the review-candidates are prioritized, at least in part, using the assigned confidence levels. The review-candidates are electronically presented in prioritized order to solicit verification or correction feedback for updating the ground truth data"
@@ -351,7 +351,7 @@
   "id":"US20190361980 A1",
   "title":"Inferring confidence and need for natural language processing of input data ",
   "link":"https://patents.google.com/patent/US20190361980A1/",
-  "authors":"Troy Biesterfeld, Andrew R Freed, Elizabeth T Dettman, Jeremy J Salsman, Paul R Chmielewski",
+  "authors":"Troy Biesterfeld, Andrew R. Freed, Elizabeth T. Dettman, Jeremy J Salsman, Paul R Chmielewski",
   "year": "2019",
   "date": "2019-11-28",
   "abstract": "Improved data ingestion techniques are provided. A data set comprising records is received, where each record contains one or more fields. A group of fields is identified, where each of the fields has a common metadata attribute. Metrics are determined for the group based on metadata associated with each field, and weight values are assigned to each of the metrics. A natural language processing (NLP) measure and a discreteness measure are generated for the group of fields based on the metrics and the weight values. A processing workflow is selected to use when ingesting data from the group of fields into a corpus, based on comparing the NLP measure and the discreteness measure to one or more predefined thresholds, and each of the fields in the group of fields are processed using the processing workflow."
@@ -441,7 +441,7 @@
   "id":"US20190164016 A1",
   "title":"Clustering subject matter experts based on question and answer ratings",
   "link":"https://patents.google.com/patent/US20190164016A1/",
-  "authors":"Corville O. Allen, Andrew R. Freed, Joseph Kohzaya",
+  "authors":"Corville O. Allen, Andrew R. Freed, Joseph N. Kozhaya",
   "year": "2019",
   "date": "2019-05-30",
   "abstract": "Software that performs the following operations: (i) receiving descriptive information associated with a domain expert; (ii) receiving a question and a corresponding candidate answer for the question; (iii) determining a set of scoring features to be used to evaluate the candidate answer, wherein the set of scoring features includes: at least one scoring feature pertaining to the question, at least one scoring feature pertaining to the candidate answer, and at least one scoring feature pertaining to the descriptive information; (iv) receiving a score from the domain expert, wherein the score is based, at least in part, on the domain expert's evaluation of the candidate answer; (v) generating a feature vector based on the set of scoring features; (vi) cross-correlating the feature vector with the score; and (vii) clustering the domain expert with one or more other domain experts according to the cross-correlation, thereby creating a first cluster."
@@ -513,7 +513,7 @@
   "id":"US20180189417 A1",
   "title":"Dynamic faceting for personalized search and discovery",
   "link":"https://patents.google.com/patent/US20180189417A1/en",
-  "authors":"Andrew R. Freed, Norbert Herman, Shubhadip Ray, Avik SANYAL",
+  "authors":"Andrew R. Freed, Norbert Herman, Shubhadip Ray, Avik Sanyal",
   "year": "2018",
   "date": "2018-07-05",
   "abstract": "Methods, computer program products, and systems are presented. The methods include, for instance: determining user clusters and navigation-type clusters based on multiple information requests, and training facets and corresponding usefulness factor of the facets from the multiple information requests by machine learning. When a user submits a query, the user and the query is respectively mapped with one of the user clusters and the navigation-type clusters, and the query is customized based on the associated pair of clusters. Results of the query are obtained, ranked by usefulness of the facets as determined according to the pair of clusters, and presented to the user."
@@ -522,7 +522,7 @@
   "id":"US20180165328 A1",
   "title":"Apply Corrections to an Ingested Corpus",
   "link":"https://patents.google.com/patent/US20180165328A1/en",
-  "authors":"Lisa M. Bradley, Christina R. Carlson, Andrew R. Freed, Roderick C. Henderson",
+  "authors":"Lisa M. W. Bradley, Christina R. Carlson, Andrew R. Freed, Roderick C. Henderson",
   "year": "2018",
   "date": "2018-06-14",
   "abstract": "An approach is provided to correct documents ingested by a question answering (QA) system. A document previously ingested by the QA system is selected. A correction to the selected document is identified from one or more correction sources and the correction is applied to the selected document within the QA system. In one embodiment, the correction source is a non-ingested document, such as a published document or an issued correction. In another embodiment, the correction source is a post in a forum. In this embodiment, a statement in the ingested document is compared with a contradictory statement found in an ingested post of a threaded discussion. The statement and the contradictory statement are evaluated by the QA system. The statement in the ingested document is replaced with the contradictory statement in response to the evaluation revealing that the contradictory statement is correct and that the statement is incorrect."
@@ -657,7 +657,7 @@
   "id":"U20170337294 A1",
   "title":"Determining Answer Stability in a Question Answering System",
   "link":"https://patents.google.com/patent/US20170337294A1/",
-  "authors":"Corville O. Allen, Lisa M. Bradley, Christina R. Carlson, Andrew R. Freed, Roderick C. Henderson",
+  "authors":"Corville O. Allen, Lisa M. W. Bradley, Christina R. Carlson, Andrew R. Freed, Roderick C. Henderson",
   "year": "2017",
   "date": "2017-11-23",
   "abstract": "An approach is provided to determine answer stability in a question answering (QA) system. In the approach, a question submitted to a question answering (QA) system is selected and data pertaining to a candidate answers generated by the QA system are analyzed. The analysis of the data results in a stability characteristic that pertains to the candidate answers. A confidence value associated with the candidate answers is adjusted based on the respective answer's stability characteristic. One or more of the candidate answers are provided to a requestor based on the adjusted confidence values."
@@ -746,7 +746,7 @@
   "id":"US20170169717 A1",
   "title":"Generating Multiple Choice Questions and Answers Based on Document Text",
   "link":"https://www.google.com/patents/US20170169717A1",
-  "authors":"Corville O. Allen, Andrew R. Freed, Roberto Delima",
+  "authors":"Corville O. Allen, Andrew R. Freed, Roberto DeLima",
   "year": "2017"
  },
  { 
@@ -835,14 +835,14 @@
   "id":"US20170060847 A1",
   "title":"Linguistic based determination of text location origin ",
   "link":"https://www.google.com/patents/US20170060847A1",
-  "authors":"Corville O. Allen, Andrew R. Freed, Roberto Delima, Robert L. Nielsen",
+  "authors":"Corville O. Allen, Andrew R. Freed, Roberto DeLima, Robert L. Nielsen",
   "year": "2017"
  },
  { 
   "id":"US20170060846 A1",
   "title":"Linguistic based determination of text creation date",
   "link":"https://www.google.com/patents/US20170060846A1",
-  "authors":"Corville O. Allen, Andrew R. Freed, Roberto Delima, Robert L. Nielsen",
+  "authors":"Corville O. Allen, Andrew R. Freed, Roberto DeLima, Robert L. Nielsen",
   "year": "2017",
   "status":"Grant",
   "issue_id":"US9639524 B2",
@@ -859,7 +859,7 @@
   "id":"US20170060832 A1",
   "title":"Linguistic based determination of text location origin",
   "link":"https://www.google.com/patents/US20170060832A1",
-  "authors":"Corville O. Allen, Andrew R. Freed, Roberto Delima, Robert L. Nielsen",
+  "authors":"Corville O. Allen, Andrew R. Freed, Roberto DeLima, Robert L. Nielsen",
   "year": "2017"
  },
  { 
@@ -967,7 +967,7 @@
   "id":"US20160196299 A1",
   "title":"Determining Answer Stability in a Question Answering System",
   "link":"https://patents.google.com/patent/US20160196299A1",
-  "authors":"Corville O. Allen, Andrew R. Freed, Lisa M. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "authors":"Corville O. Allen, Andrew R. Freed, Lisa M. W. Bradley, Christina R. Carlson, Roderick C. Henderson",
   "year": "2016",
   "status":"Grant",
   "issue_id":"US9916395 B2",
@@ -977,7 +977,7 @@
   "id":"US20160196298 A1",
   "title":"Apply Corrections to an Ingested Corpus",
   "link":"https://patents.google.com/patent/US20160196298A1",
-  "authors":"Andrew R. Freed, Lisa M. Bradley, Christina R. Carlson, Roderick C. Henderson",
+  "authors":"Andrew R. Freed, Lisa M. W. Bradley, Christina R. Carlson, Roderick C. Henderson",
   "year": "2016"
  },
  { 
@@ -1015,7 +1015,7 @@
   "id":"US20160171371 A1",
   "title":"Adaptive Testing for Answers in a Question and Answer System",
   "link":"https://patents.google.com/patent/US20160171371A1",
-  "authors":"Pamela D. Andrejko, Andrew R. Freed, Cynthia M. Murch, Richad A. Salmon, Charles S. Skinner",
+  "authors":"Pamela D. Andrejko, Andrew R. Freed, Cynthia M. Murch, Richard A. Salmon, Charles S. Skinner",
   "year": "2016"
  },
  { 
@@ -1050,28 +1050,28 @@
   "id":"US20160156578 A1",
   "title":"Ingesting Forum Content",
   "link":"https://patents.google.com/patent/US20160156578A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
   "id":"US20160154888 A1",
   "title":"Ingesting Forum Content",
   "link":"https://patents.google.com/patent/US20160154888A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
   "id":"US20160154889 A1",
   "title":"Persona-Based Conversation",
   "link":"https://patents.google.com/patent/US20160154889A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
   "id":"US20160154799 A1",
   "title":"Persona-Based Conversation",
   "link":"https://patents.google.com/patent/US20160154799A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
@@ -1123,21 +1123,21 @@
   "id":"US20160134647 A1",
   "title":"Cognitive Detection of Malicious Documents",
   "link":"https://patents.google.com/patent/US20160134647A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
   "id":"US20160134649 A1",
   "title":"Cognitive Detection of Malicious Documents",
   "link":"https://patents.google.com/patent/US20160134649A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
   "id":"US20160121218 A1",
   "title":"Techniques for creating dynamic game activities for games",
   "link":"https://patents.google.com/patent/US20160121218A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
@@ -1200,14 +1200,14 @@
   "id":"US20160099846 A1",
   "title":"Managing Network Bandwidth Based on Cognitive Analysis of Site Content Against Organizational Needs",
   "link":"http://www.google.com/patents/US20160099846",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016"
  },
  { 
   "id":"US20160098576 A1",
   "title":"Cognitive Digital Security Assistant",
   "link":"https://patents.google.com/patent/US20160098576A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year": "2016",
   "status":"Grant",
   "issue_id":"US9660687 B2",
@@ -1217,7 +1217,7 @@
   "id":"US20160078182 A1",
   "title":"Using Toxicity Level in Treatment Recommendations by Question Answering Systems",
   "link":"https://patents.google.com/patent/US20160078182A1",
-  "authors":"Corville O. Allen, Roberto Delima, Thomas J. Eggebraaten, Mark G. Megerian, Marie L. Setnes, Andrew R. Freed",
+  "authors":"Corville O. Allen, Roberto DeLima, Thomas J. Eggebraaten, Mark G. Megerian, Marie L. Setnes, Andrew R. Freed",
   "year": "2016"
  },
  { 
@@ -1238,7 +1238,7 @@
   "id":"US20160055155 A1",
   "title":"Answering Superlative Questions with a Question and Answer System",
   "link":"https://patents.google.com/patent/US20160055155A1",
-  "authors":"Andrew R. Freed, Corville O. Allen, Roberto Delima, Albert A. Chung",
+  "authors":"Andrew R. Freed, Corville O. Allen, Roberto DeLima, Albert A. Chung",
   "year": "2016"
  },
  { 
@@ -1306,7 +1306,7 @@
   "id":"US20150317561 A1",
   "title":"Predicting and Enhancing Document Ingestion Time",
   "link":"https://patents.google.com/patent/US20150317561A1",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year":"2015",
   "status":"Grant",
   "issue_id":"US9563846 B2",
@@ -1346,7 +1346,7 @@
   "id":"US9286290 B2",
   "title":"Producing Insight Information from Tables Using Natural Language Processing",
   "link":"https://www.google.com/patents/US9286290",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year":"2015",
   "status":"Grant",
   "issue_id":"US9286290 B2",
@@ -1370,7 +1370,7 @@
   "id":"US20150100588 A1",
   "title":"Optimized Data Visualization According to Natural Language Query",
   "link":"http://www.google.com/patents/US20150100588",
-  "authors":"Corville O. Allen and Andrew R. Freed",
+  "authors":"Corville O. Allen, Andrew R. Freed",
   "year":"2013"
  }
 ]
