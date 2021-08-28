@@ -1,5 +1,50 @@
 [
  {
+  "id":"US20210210079 A1",
+  "title":"Processing audio data",
+  "link":"https://patents.google.com/patent/US20210210079A1/",
+  "authors":"Andrew R. Freed, Marco Noel, Victor Povar",
+  "year": "2021",
+  "date": "2021-07-08",
+  "abstract": "Processing data for speech recognition by generating hypotheses from input data, assigning each hypothesis, a score according to a confidence level value and hypothesis ranking, executing a pass/fail grammar test against each hypothesis, generating replacement hypotheses according to grammar test failures, assigning each replacement hypothesis a score according to a number of hypothesis changes, and providing a set of hypotheses, wherein the set comprises at least one replacement hypotheses."
+ },
+ {
+  "id":"US20210201016 A1",
+  "title":"Classifying digital documents in multi-document transactions based on embedded dates",
+  "link":"https://patents.google.com/patent/US20210201016A1/en",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-07-01",
+  "abstract": "A generator categorizes documents in one or more transactions into buckets, each identified by a separate category for an expected time window based on a separate relative age of each of the documents evaluated from one or more dates identified in the documents. The generator trains a document classifier with a model of the separate relative age of each of the documents as a temporal characteristic correlated with the respective category of a respective bucket of the buckets. The document classifier executes on a input documents to classify each of the input documents as a particular logical type identified by a particular category from among multiple logical types."
+ },
+ {
+  "id":"US20210158015 A1",
+  "title":"Classifying digital documents in multi-document transactions based on signatory role analysis",
+  "link":"https://patents.google.com/patent/US20210158015A1/",
+  "authors":"Corville O. Allen, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-05-27",
+  "abstract": "A classifier receives a digital scan of a document and converts the content of the document in the digital scan from an image into text. The classifier analyzes the text to determine one or more predicted roles of one or more signatories, each predicted role determined based on one or more signature elements in the content of the document executed by the one or more signatories. The classifier evaluates each of the one or more predicted roles in view of a plurality of expected signatory role characteristics of a plurality of categories of documents of a transaction to select a particular category associated with the document from among the plurality of categories. The classifier classifies the document within the transaction as a particular logical type identified by the particular category from among a plurality of logical types for the transaction."
+ },
+ {
+  "id":"US20210156691 A1",
+  "title":"Assistive Mechanism via Edge Device Personalization ",
+  "link":"https://patents.google.com/patent/US20210156691A1/",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-05-27",
+  "abstract": "A method, system, and computer program product provide navigation guidance around various object types in a vicinity of a guidance assistance device for a user by analyzing received data regarding an environment around the guidance assistance device to identify one or more entities Ei and by applying an artificial intelligence machine learning analysis to group the one or more entities Ei into corresponding categories Cj and to determine a minimum spacing distance Dmin for each of the one or more entities Ei, wherein the minimum spacing distance Dmin is a minimum distance between the guidance assistance device and the entity Ei based on the categorization Ci specified by the user, and then providing feedback to the user when any of the one or more entities Ei is within than minimum spacing distance Dmin corresponding to said entity."
+ },
+ {
+  "id":"US20210109993 A1",
+  "title":"Semantic header detection using pre-trained embeddings ",
+  "link":"https://patents.google.com/patent/US20210109993A1/",
+  "authors":"Kyle G. Christianson, Hassan Nadim, Joshua S. Allen, Andrew R. Freed",
+  "year": "2021",
+  "date": "2021-04-15",
+  "abstract": "A method, computer system, and a computer program product for detecting one or more semantic headers in one or more tabular structures by utilizing a custom pre-trained embeddings model is provided. The present invention may include receiving the custom pre-trained embeddings model. The present invention may also include computing one or more dot product values associated with the one or more tabular structures from the one or more documents based on the context of each cell associated with the one or more tabular structures in the one or more documents. The present invention may then include generating one or more similarity feature values based on the computed one or more dot product values. The present invention may further include detecting the one or more semantic headers associated with the one or more tabular structures based on the one or more similarity feature values."
+ },
+ {
   "id":"US20210067470 A1",
   "title":"Methods and systems for improving chatbot intent training ",
   "link":"https://patents.google.com/patent/US20210067470A1/",
