@@ -1,5 +1,41 @@
 [
  {
+  "id":"US20220004755 A1",
+  "title":"Optical character recognition (ocr) induction for multi-page changes ",
+  "link":"https://patents.google.com/patent/US20220004755A1/",
+  "authors":"Joseph N. Kozhaya, Shikhar Kwatra, Corville O. Allen, Andrew R. Freed",
+  "year": "2022",
+  "date": "2022-01-06",
+  "abstract": "Provided are techniques for OCR induction for multi-page changes. A plurality of documents of a document type are processed to generate text area data for a text area in one or more documents of the plurality of documents, where the text area data includes coordinate locations of a zone for the text area based on expansion and direction of shift of the text area. A page flow model is trained using the plurality of documents and the text area data. In response to receiving a new document comprising the text area, a scanning script is received from the page flow model, where the page flow model identifies a new zone for the text area in the new document and determines how to adjust another zone for an element in the new document. The scanning script is used to scan the new document to generate digital text."
+ },
+ {
+  "id":"US20210342542 A1",
+  "title":"Efficiently managing predictive changes for a conversational agent ",
+  "link":"https://patents.google.com/patent/US20210342542A1/",
+  "authors":"Rebecca R. James, Lalit Agarwalla, Shane M. Kilmon, Andrew R. Freed, Leo Mazzoli",
+  "year": "2021",
+  "date": "2021-11-04",
+  "abstract": "A dialog change service builds a directed graph of nodes, each described by code for a conversational agent stored in source control, the code comprising one or more dialog-based features. The dialog change service, responsive to receiving a request for a dialog change to a particular node of the conversational agent, evaluates the directed graph to identify an additional selection of nodes that require a similar changes as the dialog change based on textual and structural content. The dialog change service updates the code for the particular node and the additional selection of nodes to propagate the dialog change in the conversational agent stored in source control."
+ },
+ {
+  "id":"US20210312304 A1",
+  "title":"Automatically refining application of a hierarchical coding system to optimize conversation system dialog-based responses to a user ",
+  "link":"https://patents.google.com/patent/US20210312304A1/",
+  "authors":"Kimberly D. Kenna, Andrew R. Freed, Isa M. Torres",
+  "year": "2021",
+  "date": "2021-10-07",
+  "abstract": "A service identifies a level of specificity of one or more identified entities in a user input comprising a query, within one of multiple levels of a hierarchy of a hierarchical coding system. Responsive to determining that additional levels of specificity beyond the identified level of specificity are recommended to return a minimum answer set to the query, the service returns one or more answers requesting one or more additional inputs refining the query based on one or more values identified in a next level. Responsive to determining that no additional levels of specificity beyond the identified level of specificity are recommended to return the minimum answer set to the query, the service returns an answer set comprising a selection of information for the current level of specificity from an ingested corpus of knowledge mapped to the hierarchical coding system."
+ },
+ {
+  "id":"US20210295829 A1",
+  "title":"Speech recognition and training for data inputs",
+  "link":"https://patents.google.com/patent/US20210295829A1/",
+  "authors":"Andrew R. Freed, Marco Noel, Victor Povar, Shane M Kilmon",
+  "year": "2021",
+  "date": "2021-09-23",
+  "abstract": "A method, system, and computer program product for recognizing, and training to recognize, alphanumeric speech data inputs. The method may include segmenting a data input into a sequential n-gram chunks based on a predetermined rule, where the data input is received through speech recognition. The method may also include receiving metadata regarding characteristics of the data input. The method may also include generating a language model based on the metadata. The method may also include generating a first set of language model variations of the data input. The method may also include training the language model based on at least the first set of language model variations. The method may also include generating one or more alternatives for the data input using the trained language model. The method may also include transmitting an output including the one or more alternatives for the data input."
+ },
+ {
   "id":"US20210210079 A1",
   "title":"Processing audio data",
   "link":"https://patents.google.com/patent/US20210210079A1/",
